@@ -2,7 +2,17 @@
 
 Готовые видеоролики доступны для скачивания из этого репозитория.
 
-## Актуальные ролики — исходный баннер сверху
+## Актуальные ролики — без баннеров
+
+- [1. Улитка — без рекламы](https://raw.githubusercontent.com/kekkill/Videos/main/exports/snail-no-banner.mp4)
+- [2. Маска — без рекламы](https://raw.githubusercontent.com/kekkill/Videos/main/exports/minecraft-mask-no-banner.mp4)
+
+1080×1920, 60 fps. Реклама полностью удалена; в её прежней области восстановлен
+исходный видеоряд. Minecraft-таблички, динамичные субтитры, озвучка, музыка,
+игровые звуки, ориентация и тайминги сохранены из последних готовых версий.
+Звук скопирован без перекодирования.
+
+## Предыдущие ролики — исходный баннер сверху
 
 - [1. Улитка — исходный баннер сверху](https://raw.githubusercontent.com/kekkill/Videos/main/exports/snail-banner-original-top.mp4)
 - [2. Маска — исходный баннер сверху](https://raw.githubusercontent.com/kekkill/Videos/main/exports/minecraft-mask-banner-original-top.mp4)
