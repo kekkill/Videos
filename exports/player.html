@@ -2,7 +2,7 @@
 <html lang="ru">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Улитка — готовый монтаж с субтитрами</title>
+<title>Улитка — баннер Starvell и субтитры</title>
 <style>
   *{box-sizing:border-box}body{margin:0;background:#101318;color:#f2f3f5;font:16px system-ui,sans-serif;text-align:center;padding:16px}
   h1{font-size:20px;margin:0 0 12px}.choices{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin-bottom:12px}
@@ -11,15 +11,17 @@
   video{display:block;margin:auto;width:auto;max-width:100%;height:calc(100vh - 205px);min-height:240px;background:#000;border-radius:8px}
   p{font-size:14px;color:#bac1cd}a{color:#ffd84a;margin:0 8px}
 </style>
-<h1>Улитка — готовый монтаж с субтитрами</h1>
+<h1>Улитка — баннер Starvell и субтитры</h1>
 <div class="choices">
-  <button data-src="snail-user-edit-captions.mp4" aria-pressed="true">Актуальный ролик</button>
+  <button data-src="snail-banner-final.mp4" aria-pressed="true">Актуальный ролик с баннером</button>
+  <button data-src="snail-user-edit-captions.mp4" aria-pressed="false">Предыдущий — только субтитры</button>
   <button data-src="snail-v2-captions-only.mp4" aria-pressed="false">Предыдущий — без озвучки</button>
   <button data-src="snail-v2-smooth-voice.mp4" aria-pressed="false">Предыдущий — с озвучкой</button>
 </div>
-<video controls playsinline preload="metadata" src="snail-user-edit-captions.mp4"></video>
+<video controls playsinline preload="metadata" src="snail-banner-final.mp4"></video>
 <p>Распакуйте архив целиком. Видео и этот плеер должны лежать в одной папке.</p>
-<a href="snail-user-edit-captions.mp4" download>Скачать актуальный ролик</a>
+<a href="snail-banner-final.mp4" download>Скачать актуальный ролик с баннером</a>
+<a href="snail-user-edit-captions.mp4" download>Скачать предыдущий с субтитрами</a>
 <a href="snail-v2-captions-only.mp4" download>Скачать без озвучки</a>
 <a href="snail-v2-smooth-voice.mp4" download>Скачать с озвучкой</a>
 <script>
