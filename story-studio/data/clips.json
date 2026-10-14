@@ -1,0 +1,224 @@
+[
+  {
+    "id": "01-family",
+    "kind": "moment",
+    "title": "Когда семья увидела\nтвой Instagram",
+    "segments": [
+      [
+        0.75,
+        17.95
+      ]
+    ],
+    "file": "01-family.mp4",
+    "frames": 413,
+    "duration": 17.225542,
+    "videoDuration": 17.225542,
+    "bytes": 1759280,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "02-crystal",
+    "kind": "moment",
+    "title": "Он показывает,\nКАК ТЫ УМРЁШЬ",
+    "segments": [
+      [
+        124.72,
+        163.75
+      ]
+    ],
+    "file": "02-crystal.mp4",
+    "frames": 936,
+    "duration": 39.039,
+    "videoDuration": 39.039,
+    "bytes": 14007831,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "03-math",
+    "kind": "moment",
+    "title": "Пятёрка за ответ?\nНет, за УВЕРЕННОСТЬ",
+    "segments": [
+      [
+        539.65,
+        562.12
+      ]
+    ],
+    "file": "03-math.mp4",
+    "frames": 539,
+    "duration": 22.480792,
+    "videoDuration": 22.480792,
+    "bytes": 4504081,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "04-news",
+    "kind": "moment",
+    "title": "Самый токсичный\nпрямой эфир",
+    "segments": [
+      [
+        745.9,
+        765.1
+      ]
+    ],
+    "file": "04-news.mp4",
+    "frames": 461,
+    "duration": 19.227542,
+    "videoDuration": 19.227542,
+    "bytes": 2564283,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "05-destiny-1",
+    "kind": "story",
+    "series": "Кристалл смерти",
+    "part": 1,
+    "parts": 3,
+    "title": "Морти решил\nобмануть судьбу",
+    "segments": [
+      [
+        185.3,
+        240.0
+      ],
+      [
+        245.55,
+        260.85
+      ]
+    ],
+    "file": "05-destiny-1.mp4",
+    "frames": 1679,
+    "duration": 70.028292,
+    "videoDuration": 70.028292,
+    "bytes": 20609572,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "06-destiny-2",
+    "kind": "story",
+    "series": "Кристалл смерти",
+    "part": 2,
+    "parts": 3,
+    "title": "Одно решение —\nи ВСЁ ПОШЛО НЕ ТАК",
+    "segments": [
+      [
+        569.0,
+        607.1
+      ],
+      [
+        703.1,
+        721.2
+      ]
+    ],
+    "file": "06-destiny-2.mp4",
+    "frames": 1348,
+    "duration": 56.222833,
+    "videoDuration": 56.222833,
+    "bytes": 13305333,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "07-destiny-3",
+    "kind": "story",
+    "series": "Кристалл смерти",
+    "part": 3,
+    "parts": 3,
+    "title": "Вот что значило\n«Я ЛЮБЛЮ ТЕБЯ»",
+    "segments": [
+      [
+        787.3,
+        800.2
+      ],
+      [
+        883.8,
+        905.4
+      ],
+      [
+        1302.6,
+        1328.6
+      ]
+    ],
+    "file": "07-destiny-3.mp4",
+    "frames": 1452,
+    "duration": 60.5605,
+    "videoDuration": 60.5605,
+    "bytes": 6948133,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "08-clones-1",
+    "kind": "story",
+    "series": "Перезапуск Рика",
+    "part": 1,
+    "parts": 3,
+    "title": "Рик умер.\nА потом ПРОСНУЛСЯ",
+    "segments": [
+      [
+        323.5,
+        386.95
+      ]
+    ],
+    "file": "08-clones-1.mp4",
+    "frames": 1522,
+    "duration": 63.480083,
+    "videoDuration": 63.480083,
+    "bytes": 7425418,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "09-clones-2",
+    "kind": "story",
+    "series": "Перезапуск Рика",
+    "part": 2,
+    "parts": 3,
+    "title": "Он хотел просто\nвесёлое приключение",
+    "segments": [
+      [
+        439.5,
+        493.0
+      ]
+    ],
+    "file": "09-clones-2.mp4",
+    "frames": 1283,
+    "duration": 53.511792,
+    "videoDuration": 53.511792,
+    "bytes": 11963642,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "10-clones-3",
+    "kind": "story",
+    "series": "Перезапуск Рика",
+    "part": 3,
+    "parts": 3,
+    "title": "Даже Рик\nне ожидал ТАКОГО",
+    "segments": [
+      [
+        493.1,
+        506.0
+      ],
+      [
+        670.1,
+        691.35
+      ],
+      [
+        986.3,
+        1017.15
+      ]
+    ],
+    "file": "10-clones-3.mp4",
+    "frames": 1560,
+    "duration": 65.065,
+    "videoDuration": 65.065,
+    "bytes": 16485518,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  }
+]

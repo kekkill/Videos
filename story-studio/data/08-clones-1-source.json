@@ -1,0 +1,21 @@
+{
+  "id": "08-clones-1",
+  "kind": "story",
+  "series": "Перезапуск Рика",
+  "part": 1,
+  "parts": 3,
+  "title": "Рик умер.\nА потом ПРОСНУЛСЯ",
+  "segments": [
+    [
+      323.5,
+      386.95
+    ]
+  ],
+  "file": "08-clones-1.mp4",
+  "frames": 1522,
+  "duration": 63.480083,
+  "videoDuration": 63.480083,
+  "bytes": 7425418,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

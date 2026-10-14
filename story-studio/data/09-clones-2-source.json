@@ -1,0 +1,21 @@
+{
+  "id": "09-clones-2",
+  "kind": "story",
+  "series": "Перезапуск Рика",
+  "part": 2,
+  "parts": 3,
+  "title": "Он хотел просто\nвесёлое приключение",
+  "segments": [
+    [
+      439.5,
+      493.0
+    ]
+  ],
+  "file": "09-clones-2.mp4",
+  "frames": 1283,
+  "duration": 53.511792,
+  "videoDuration": 53.511792,
+  "bytes": 11963642,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

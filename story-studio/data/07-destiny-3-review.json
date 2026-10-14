@@ -1,0 +1,17 @@
+[
+  {
+    "removedLeadInSeconds": [
+      12.9,
+      25.2
+    ],
+    "removedWords": [
+      " Репортаж."
+    ]
+  },
+  {
+    "before": "хак",
+    "after": "х***",
+    "start": 59.22,
+    "end": 59.96
+  }
+]

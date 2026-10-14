@@ -1,0 +1,53 @@
+[
+  {
+    "removedLeadInSeconds": [
+      34.15,
+      38.45
+    ],
+    "removedWords": [
+      " На",
+      " ксайтиках."
+    ]
+  },
+  {
+    "alternativeModelSpan": [
+      11.4,
+      12.9
+    ],
+    "words": [
+      " Убирайся",
+      " отсюда,",
+      " Морти!"
+    ]
+  },
+  {
+    "before": "Рика с",
+    "after": "Рик из",
+    "start": 2.96,
+    "end": 3.32
+  },
+  {
+    "before": "донни пальцы",
+    "after": "да не парься",
+    "start": 6.54,
+    "end": 6.98
+  },
+  {
+    "before": "ужались",
+    "after": "ужалить",
+    "start": 36.96,
+    "end": 37.26
+  },
+  {
+    "before": "засал",
+    "after": "зассал",
+    "start": 29.82,
+    "end": 30.42
+  },
+  {
+    "before": "Пизду фашистиш",
+    "after": "Bist du faschistisch",
+    "start": 18.86,
+    "end": 20.1
+  }
+]

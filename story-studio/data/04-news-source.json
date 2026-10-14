@@ -1,0 +1,18 @@
+{
+  "id": "04-news",
+  "kind": "moment",
+  "title": "Самый токсичный\nпрямой эфир",
+  "segments": [
+    [
+      745.9,
+      765.1
+    ]
+  ],
+  "file": "04-news.mp4",
+  "frames": 461,
+  "duration": 19.227542,
+  "videoDuration": 19.227542,
+  "bytes": 2564283,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

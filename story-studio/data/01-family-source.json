@@ -1,0 +1,18 @@
+{
+  "id": "01-family",
+  "kind": "moment",
+  "title": "Когда семья увидела\nтвой Instagram",
+  "segments": [
+    [
+      0.75,
+      17.95
+    ]
+  ],
+  "file": "01-family.mp4",
+  "frames": 413,
+  "duration": 17.225542,
+  "videoDuration": 17.225542,
+  "bytes": 1759280,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

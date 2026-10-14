@@ -1,0 +1,29 @@
+{
+  "id": "07-destiny-3",
+  "kind": "story",
+  "series": "Кристалл смерти",
+  "part": 3,
+  "parts": 3,
+  "title": "Вот что значило\n«Я ЛЮБЛЮ ТЕБЯ»",
+  "segments": [
+    [
+      787.3,
+      800.2
+    ],
+    [
+      883.8,
+      905.4
+    ],
+    [
+      1302.6,
+      1328.6
+    ]
+  ],
+  "file": "07-destiny-3.mp4",
+  "frames": 1452,
+  "duration": 60.5605,
+  "videoDuration": 60.5605,
+  "bytes": 6948133,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

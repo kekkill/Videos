@@ -1,0 +1,25 @@
+{
+  "id": "05-destiny-1",
+  "kind": "story",
+  "series": "Кристалл смерти",
+  "part": 1,
+  "parts": 3,
+  "title": "Морти решил\nобмануть судьбу",
+  "segments": [
+    [
+      185.3,
+      240.0
+    ],
+    [
+      245.55,
+      260.85
+    ]
+  ],
+  "file": "05-destiny-1.mp4",
+  "frames": 1679,
+  "duration": 70.028292,
+  "videoDuration": 70.028292,
+  "bytes": 20609572,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

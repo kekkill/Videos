@@ -1,0 +1,29 @@
+{
+  "id": "10-clones-3",
+  "kind": "story",
+  "series": "Перезапуск Рика",
+  "part": 3,
+  "parts": 3,
+  "title": "Даже Рик\nне ожидал ТАКОГО",
+  "segments": [
+    [
+      493.1,
+      506.0
+    ],
+    [
+      670.1,
+      691.35
+    ],
+    [
+      986.3,
+      1017.15
+    ]
+  ],
+  "file": "10-clones-3.mp4",
+  "frames": 1560,
+  "duration": 65.065,
+  "videoDuration": 65.065,
+  "bytes": 16485518,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

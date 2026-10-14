@@ -1,0 +1,25 @@
+{
+  "id": "06-destiny-2",
+  "kind": "story",
+  "series": "Кристалл смерти",
+  "part": 2,
+  "parts": 3,
+  "title": "Одно решение —\nи ВСЁ ПОШЛО НЕ ТАК",
+  "segments": [
+    [
+      569.0,
+      607.1
+    ],
+    [
+      703.1,
+      721.2
+    ]
+  ],
+  "file": "06-destiny-2.mp4",
+  "frames": 1348,
+  "duration": 56.222833,
+  "videoDuration": 56.222833,
+  "bytes": 13305333,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

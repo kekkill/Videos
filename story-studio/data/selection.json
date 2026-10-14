@@ -1,0 +1,20 @@
+{
+  "sourceDriveId": "12HxbVmKpq4j7aTnsIKf-ZIt9pcTO3hhW",
+  "sourceTitle": "Рик и Морти — сезон 4, серия 1",
+  "fps": 23.976023976023978,
+  "width": 1080,
+  "height": 1920,
+  "mirror": true,
+  "clips": [
+    {"id":"01-family","kind":"moment","title":"Когда семья увидела\nтвой Instagram","segments":[[0.75,17.95]]},
+    {"id":"02-crystal","kind":"moment","title":"Он показывает,\nКАК ТЫ УМРЁШЬ","segments":[[124.72,163.75]]},
+    {"id":"03-math","kind":"moment","title":"Пятёрка за ответ?\nНет, за УВЕРЕННОСТЬ","segments":[[539.65,562.12]]},
+    {"id":"04-news","kind":"moment","title":"Самый токсичный\nпрямой эфир","segments":[[745.90,765.10]]},
+    {"id":"05-destiny-1","kind":"story","series":"Кристалл смерти","part":1,"parts":3,"title":"Морти решил\nобмануть судьбу","segments":[[185.30,240.00],[245.55,260.85]]},
+    {"id":"06-destiny-2","kind":"story","series":"Кристалл смерти","part":2,"parts":3,"title":"Одно решение —\nи ВСЁ ПОШЛО НЕ ТАК","segments":[[569.00,607.10],[703.10,721.20]]},
+    {"id":"07-destiny-3","kind":"story","series":"Кристалл смерти","part":3,"parts":3,"title":"Вот что значило\n«Я ЛЮБЛЮ ТЕБЯ»","segments":[[787.30,800.20],[883.80,905.40],[1302.60,1328.60]]},
+    {"id":"08-clones-1","kind":"story","series":"Перезапуск Рика","part":1,"parts":3,"title":"Рик умер.\nА потом ПРОСНУЛСЯ","segments":[[323.50,386.95]]},
+    {"id":"09-clones-2","kind":"story","series":"Перезапуск Рика","part":2,"parts":3,"title":"Он хотел просто\nвесёлое приключение","segments":[[439.50,493.00]]},
+    {"id":"10-clones-3","kind":"story","series":"Перезапуск Рика","part":3,"parts":3,"title":"Даже Рик\nне ожидал ТАКОГО","segments":[[493.10,506.00],[670.10,691.35],[986.30,1017.15]]}
+  ]
+}

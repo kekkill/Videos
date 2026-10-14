@@ -1,0 +1,891 @@
+[
+  {
+    "text": " Ты",
+    "startMs": 1460,
+    "endMs": 1900,
+    "timestampMs": 1680,
+    "confidence": 0.927868
+  },
+  {
+    "text": " пользуешься",
+    "startMs": 1900,
+    "endMs": 2640,
+    "timestampMs": 2270,
+    "confidence": 0.996493
+  },
+  {
+    "text": " ими",
+    "startMs": 2640,
+    "endMs": 2780,
+    "timestampMs": 2710,
+    "confidence": 0.995429,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " только",
+    "startMs": 2780,
+    "endMs": 2980,
+    "timestampMs": 2880,
+    "confidence": 0.954235
+  },
+  {
+    "text": " чтобы",
+    "startMs": 2980,
+    "endMs": 3260,
+    "timestampMs": 3120,
+    "confidence": 0.826815
+  },
+  {
+    "text": " побеждать?",
+    "startMs": 3260,
+    "endMs": 3860,
+    "timestampMs": 3560,
+    "confidence": 0.99513,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Я",
+    "startMs": 3960,
+    "endMs": 4100,
+    "timestampMs": 4030,
+    "confidence": 0.986384
+  },
+  {
+    "text": " ими",
+    "startMs": 4100,
+    "endMs": 4240,
+    "timestampMs": 4170,
+    "confidence": 0.987387
+  },
+  {
+    "text": " не",
+    "startMs": 4240,
+    "endMs": 4380,
+    "timestampMs": 4310,
+    "confidence": 0.99983
+  },
+  {
+    "text": " пользуюсь.",
+    "startMs": 4380,
+    "endMs": 4900,
+    "timestampMs": 4640,
+    "confidence": 0.999577,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Люди,",
+    "startMs": 5000,
+    "endMs": 5240,
+    "timestampMs": 5120,
+    "confidence": 0.999368
+  },
+  {
+    "text": " которые",
+    "startMs": 5340,
+    "endMs": 5520,
+    "timestampMs": 5430,
+    "confidence": 0.999587
+  },
+  {
+    "text": " всю",
+    "startMs": 5520,
+    "endMs": 5720,
+    "timestampMs": 5620,
+    "confidence": 0.997876
+  },
+  {
+    "text": " жизнь",
+    "startMs": 5720,
+    "endMs": 5920,
+    "timestampMs": 5820,
+    "confidence": 0.99963,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " пытаются",
+    "startMs": 5920,
+    "endMs": 6300,
+    "timestampMs": 6110,
+    "confidence": 0.999791
+  },
+  {
+    "text": " избежать",
+    "startMs": 6300,
+    "endMs": 6660,
+    "timestampMs": 6480,
+    "confidence": 0.999715,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " смерти,",
+    "startMs": 6660,
+    "endMs": 7040,
+    "timestampMs": 6850,
+    "confidence": 0.99793
+  },
+  {
+    "text": " уже",
+    "startMs": 7040,
+    "endMs": 7260,
+    "timestampMs": 7150,
+    "confidence": 0.997163
+  },
+  {
+    "text": " мертвы.",
+    "startMs": 7260,
+    "endMs": 7700,
+    "timestampMs": 7480,
+    "confidence": 0.979763,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " А",
+    "startMs": 7840,
+    "endMs": 8000,
+    "timestampMs": 7920,
+    "confidence": 0.997371
+  },
+  {
+    "text": " еще",
+    "startMs": 8000,
+    "endMs": 8160,
+    "timestampMs": 8080,
+    "confidence": 0.28151
+  },
+  {
+    "text": " они",
+    "startMs": 8160,
+    "endMs": 8320,
+    "timestampMs": 8240,
+    "confidence": 0.999473
+  },
+  {
+    "text": " богаты,",
+    "startMs": 8320,
+    "endMs": 8780,
+    "timestampMs": 8550,
+    "confidence": 0.856618,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " и",
+    "startMs": 8860,
+    "endMs": 8920,
+    "timestampMs": 8890,
+    "confidence": 0.989963
+  },
+  {
+    "text": " я",
+    "startMs": 8920,
+    "endMs": 9020,
+    "timestampMs": 8970,
+    "confidence": 0.999869
+  },
+  {
+    "text": " люблю",
+    "startMs": 9020,
+    "endMs": 9240,
+    "timestampMs": 9130,
+    "confidence": 0.999435
+  },
+  {
+    "text": " жить",
+    "startMs": 9240,
+    "endMs": 9429,
+    "timestampMs": 9334,
+    "confidence": 0.671082,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " на",
+    "startMs": 9429,
+    "endMs": 9523,
+    "timestampMs": 9476,
+    "confidence": 0.671082
+  },
+  {
+    "text": " их",
+    "startMs": 9523,
+    "endMs": 9617,
+    "timestampMs": 9570,
+    "confidence": 0.671082
+  },
+  {
+    "text": " деньги.",
+    "startMs": 9617,
+    "endMs": 9900,
+    "timestampMs": 9758,
+    "confidence": 0.671082,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " О,",
+    "startMs": 10200,
+    "endMs": 10460,
+    "timestampMs": 10330,
+    "confidence": 0.991225,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Господи!",
+    "startMs": 10900,
+    "endMs": 11180,
+    "timestampMs": 11040,
+    "confidence": 0.85491,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Джессика!",
+    "startMs": 11840,
+    "endMs": 12400,
+    "timestampMs": 12120,
+    "confidence": 0.997119,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Я",
+    "startMs": 14000,
+    "endMs": 14560,
+    "timestampMs": 14280,
+    "confidence": 0.959313
+  },
+  {
+    "text": " люблю",
+    "startMs": 14560,
+    "endMs": 15080,
+    "timestampMs": 14820,
+    "confidence": 0.999208
+  },
+  {
+    "text": " тебя.",
+    "startMs": 15080,
+    "endMs": 15700,
+    "timestampMs": 15390,
+    "confidence": 0.999877,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Морти.",
+    "startMs": 17100,
+    "endMs": 17660,
+    "timestampMs": 17380,
+    "confidence": 0.213028,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Я",
+    "startMs": 19080,
+    "endMs": 19640,
+    "timestampMs": 19360,
+    "confidence": 0.972035
+  },
+  {
+    "text": " люблю",
+    "startMs": 19640,
+    "endMs": 20100,
+    "timestampMs": 19870,
+    "confidence": 0.999255
+  },
+  {
+    "text": " тебя.",
+    "startMs": 20100,
+    "endMs": 20700,
+    "timestampMs": 20400,
+    "confidence": 0.999931,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Джессика!",
+    "startMs": 20820,
+    "endMs": 21380,
+    "timestampMs": 21100,
+    "confidence": 0.996142,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Я",
+    "startMs": 21580,
+    "endMs": 22140,
+    "timestampMs": 21860,
+    "confidence": 0.990325
+  },
+  {
+    "text": " хочу",
+    "startMs": 22140,
+    "endMs": 22400,
+    "timestampMs": 22270,
+    "confidence": 0.999166
+  },
+  {
+    "text": " умереть",
+    "startMs": 22400,
+    "endMs": 22720,
+    "timestampMs": 22560,
+    "confidence": 0.992378
+  },
+  {
+    "text": " с",
+    "startMs": 22720,
+    "endMs": 22840,
+    "timestampMs": 22780,
+    "confidence": 0.889297,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Джессикой!",
+    "startMs": 22840,
+    "endMs": 23300,
+    "timestampMs": 23070,
+    "confidence": 0.999546,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Что",
+    "startMs": 32030,
+    "endMs": 32590,
+    "timestampMs": 32310,
+    "confidence": 0.996006
+  },
+  {
+    "text": " ты",
+    "startMs": 32590,
+    "endMs": 32730,
+    "timestampMs": 32660,
+    "confidence": 0.999885
+  },
+  {
+    "text": " делаешь?",
+    "startMs": 32730,
+    "endMs": 33170,
+    "timestampMs": 32950,
+    "confidence": 0.999715,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Можно",
+    "startMs": 33690,
+    "endMs": 34250,
+    "timestampMs": 33970,
+    "confidence": 0.610175
+  },
+  {
+    "text": " я",
+    "startMs": 34250,
+    "endMs": 34430,
+    "timestampMs": 34340,
+    "confidence": 0.990452
+  },
+  {
+    "text": " поведу?",
+    "startMs": 34430,
+    "endMs": 34910,
+    "timestampMs": 34670,
+    "confidence": 0.798035,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Зачем?",
+    "startMs": 35030,
+    "endMs": 35410,
+    "timestampMs": 35220,
+    "confidence": 0.998491,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Ну,",
+    "startMs": 35730,
+    "endMs": 36070,
+    "timestampMs": 35900,
+    "confidence": 0.944663,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " ощущение",
+    "startMs": 36370,
+    "endMs": 36950,
+    "timestampMs": 36660,
+    "confidence": 0.969971
+  },
+  {
+    "text": " свободной",
+    "startMs": 36950,
+    "endMs": 37510,
+    "timestampMs": 37230,
+    "confidence": 0.999762,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " дороги.",
+    "startMs": 37510,
+    "endMs": 37990,
+    "timestampMs": 37750,
+    "confidence": 0.99989,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Ладно.",
+    "startMs": 38330,
+    "endMs": 38650,
+    "timestampMs": 38490,
+    "confidence": 0.990146,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Чей",
+    "startMs": 39150,
+    "endMs": 39470,
+    "timestampMs": 39310,
+    "confidence": 0.988945
+  },
+  {
+    "text": " это",
+    "startMs": 39470,
+    "endMs": 39670,
+    "timestampMs": 39570,
+    "confidence": 0.997273
+  },
+  {
+    "text": " внук?",
+    "startMs": 39670,
+    "endMs": 40050,
+    "timestampMs": 39860,
+    "confidence": 0.999058,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Мне",
+    "startMs": 40130,
+    "endMs": 40290,
+    "timestampMs": 40210,
+    "confidence": 0.997697
+  },
+  {
+    "text": " нравится",
+    "startMs": 40290,
+    "endMs": 40690,
+    "timestampMs": 40490,
+    "confidence": 0.999195
+  },
+  {
+    "text": " его",
+    "startMs": 40690,
+    "endMs": 40910,
+    "timestampMs": 40800,
+    "confidence": 0.998892
+  },
+  {
+    "text": " стиль.",
+    "startMs": 40910,
+    "endMs": 41230,
+    "timestampMs": 41070,
+    "confidence": 0.99988,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Морти,",
+    "startMs": 42770,
+    "endMs": 43090,
+    "timestampMs": 42930,
+    "confidence": 0.966181
+  },
+  {
+    "text": " ты",
+    "startMs": 43130,
+    "endMs": 43210,
+    "timestampMs": 43170,
+    "confidence": 0.999806
+  },
+  {
+    "text": " в",
+    "startMs": 43210,
+    "endMs": 43310,
+    "timestampMs": 43260,
+    "confidence": 0.999531
+  },
+  {
+    "text": " курсе,",
+    "startMs": 43310,
+    "endMs": 43530,
+    "timestampMs": 43420,
+    "confidence": 0.995466,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " что",
+    "startMs": 43610,
+    "endMs": 43690,
+    "timestampMs": 43650,
+    "confidence": 0.999926
+  },
+  {
+    "text": " открытый",
+    "startMs": 43690,
+    "endMs": 44050,
+    "timestampMs": 43870,
+    "confidence": 0.988414
+  },
+  {
+    "text": " космос",
+    "startMs": 44050,
+    "endMs": 44350,
+    "timestampMs": 44200,
+    "confidence": 0.987307,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " наверху?",
+    "startMs": 44350,
+    "endMs": 44770,
+    "timestampMs": 44560,
+    "confidence": 0.993475,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Да,",
+    "startMs": 44830,
+    "endMs": 44990,
+    "timestampMs": 44910,
+    "confidence": 0.838237
+  },
+  {
+    "text": " да,",
+    "startMs": 45030,
+    "endMs": 45130,
+    "timestampMs": 45080,
+    "confidence": 0.988639
+  },
+  {
+    "text": " я",
+    "startMs": 45210,
+    "endMs": 45330,
+    "timestampMs": 45270,
+    "confidence": 0.99749
+  },
+  {
+    "text": " просто...",
+    "startMs": 45330,
+    "endMs": 46130,
+    "timestampMs": 45730,
+    "confidence": 0.846797,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Следую",
+    "startMs": 47450,
+    "endMs": 47770,
+    "timestampMs": 47610,
+    "confidence": 0.713745
+  },
+  {
+    "text": " инстинктам.",
+    "startMs": 47770,
+    "endMs": 48090,
+    "timestampMs": 47930,
+    "confidence": 0.880675,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Морти,",
+    "startMs": 48370,
+    "endMs": 48690,
+    "timestampMs": 48530,
+    "confidence": 0.729286
+  },
+  {
+    "text": " полети",
+    "startMs": 48710,
+    "endMs": 49050,
+    "timestampMs": 48880,
+    "confidence": 0.972694
+  },
+  {
+    "text": " наверх?",
+    "startMs": 49050,
+    "endMs": 49430,
+    "timestampMs": 49240,
+    "confidence": 0.999223,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Нет,",
+    "startMs": 49550,
+    "endMs": 49810,
+    "timestampMs": 49680,
+    "confidence": 0.990239
+  },
+  {
+    "text": " из-за",
+    "startMs": 49910,
+    "endMs": 50088,
+    "timestampMs": 49999,
+    "confidence": 0.389419
+  },
+  {
+    "text": " тебя",
+    "startMs": 50088,
+    "endMs": 50230,
+    "timestampMs": 50159,
+    "confidence": 0.389419,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " неправильно",
+    "startMs": 50230,
+    "endMs": 50770,
+    "timestampMs": 50500,
+    "confidence": 0.983551
+  },
+  {
+    "text": " умру.",
+    "startMs": 50770,
+    "endMs": 51070,
+    "timestampMs": 50920,
+    "confidence": 0.992268,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Минуточку,",
+    "startMs": 51390,
+    "endMs": 51710,
+    "timestampMs": 51550,
+    "confidence": 0.999197
+  },
+  {
+    "text": " что?",
+    "startMs": 51790,
+    "endMs": 51930,
+    "timestampMs": 51860,
+    "confidence": 0.999797,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Морти,",
+    "startMs": 52050,
+    "endMs": 52330,
+    "timestampMs": 52190,
+    "confidence": 0.997943
+  },
+  {
+    "text": " тебя",
+    "startMs": 52430,
+    "endMs": 52510,
+    "timestampMs": 52470,
+    "confidence": 0.791026
+  },
+  {
+    "text": " что,",
+    "startMs": 52510,
+    "endMs": 52630,
+    "timestampMs": 52570,
+    "confidence": 0.9236,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " кристалл",
+    "startMs": 52690,
+    "endMs": 53050,
+    "timestampMs": 52870,
+    "confidence": 0.960196
+  },
+  {
+    "text": " смерти",
+    "startMs": 53050,
+    "endMs": 53350,
+    "timestampMs": 53200,
+    "confidence": 0.997682
+  },
+  {
+    "text": " в",
+    "startMs": 53350,
+    "endMs": 53430,
+    "timestampMs": 53390,
+    "confidence": 0.999825,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " кармане?",
+    "startMs": 53430,
+    "endMs": 53750,
+    "timestampMs": 53590,
+    "confidence": 0.999015,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Нет,",
+    "startMs": 53890,
+    "endMs": 54090,
+    "timestampMs": 53990,
+    "confidence": 0.997779
+  },
+  {
+    "text": " возможно.",
+    "startMs": 54250,
+    "endMs": 54530,
+    "timestampMs": 54390,
+    "confidence": 0.99749,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Зачем",
+    "startMs": 54740,
+    "endMs": 54960,
+    "timestampMs": 54850,
+    "confidence": 0.997449
+  },
+  {
+    "text": " ты",
+    "startMs": 54960,
+    "endMs": 55080,
+    "timestampMs": 55020,
+    "confidence": 0.999331
+  },
+  {
+    "text": " спёр",
+    "startMs": 55080,
+    "endMs": 55300,
+    "timestampMs": 55190,
+    "confidence": 0.821874
+  },
+  {
+    "text": " кристалл",
+    "startMs": 55300,
+    "endMs": 55680,
+    "timestampMs": 55490,
+    "confidence": 0.996408,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " смерти?",
+    "startMs": 55680,
+    "endMs": 55820,
+    "timestampMs": 55750,
+    "confidence": 0.999815,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Я",
+    "startMs": 55820,
+    "endMs": 55940,
+    "timestampMs": 55880,
+    "confidence": 0.892744
+  },
+  {
+    "text": " Хочешь",
+    "startMs": 55960,
+    "endMs": 56140,
+    "timestampMs": 56050,
+    "confidence": 0.530926
+  },
+  {
+    "text": " умереть",
+    "startMs": 56140,
+    "endMs": 56440,
+    "timestampMs": 56290,
+    "confidence": 0.816773,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " стариком?",
+    "startMs": 56440,
+    "endMs": 56860,
+    "timestampMs": 56650,
+    "confidence": 0.737592,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Тогда",
+    "startMs": 57040,
+    "endMs": 57220,
+    "timestampMs": 57130,
+    "confidence": 0.941684
+  },
+  {
+    "text": " хватит",
+    "startMs": 57220,
+    "endMs": 57620,
+    "timestampMs": 57420,
+    "confidence": 0.957997
+  },
+  {
+    "text": " рулить.",
+    "startMs": 57620,
+    "endMs": 58000,
+    "timestampMs": 57810,
+    "confidence": 0.90563,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Нет.",
+    "startMs": 58040,
+    "endMs": 58180,
+    "timestampMs": 58110,
+    "confidence": 0.772366,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Сукин",
+    "startMs": 58180,
+    "endMs": 58680,
+    "timestampMs": 58430,
+    "confidence": 0.3184
+  },
+  {
+    "text": " ты,",
+    "startMs": 58680,
+    "endMs": 58780,
+    "timestampMs": 58730,
+    "confidence": 0.774135
+  },
+  {
+    "text": " сын,",
+    "startMs": 58900,
+    "endMs": 59060,
+    "timestampMs": 58980,
+    "confidence": 0.528036
+  },
+  {
+    "text": " дай",
+    "startMs": 59080,
+    "endMs": 59240,
+    "timestampMs": 59160,
+    "confidence": 0.496645,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " сюда",
+    "startMs": 59240,
+    "endMs": 59360,
+    "timestampMs": 59300,
+    "confidence": 0.395279
+  },
+  {
+    "text": " штурвал,",
+    "startMs": 59360,
+    "endMs": 59780,
+    "timestampMs": 59570,
+    "confidence": 0.5922
+  },
+  {
+    "text": " Морти!",
+    "startMs": 59840,
+    "endMs": 60120,
+    "timestampMs": 59980,
+    "confidence": 0.364927,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Черт",
+    "startMs": 60260,
+    "endMs": 60440,
+    "timestampMs": 60350,
+    "confidence": 0.48159
+  },
+  {
+    "text": " тебя!",
+    "startMs": 60440,
+    "endMs": 60880,
+    "timestampMs": 60660,
+    "confidence": 0.525842,
+    "pageBreakAfter": true
+  }
+]
