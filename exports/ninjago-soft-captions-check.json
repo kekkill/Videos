@@ -1,0 +1,71 @@
+{
+  "validation": "passed",
+  "file": "ninjago-soft-captions.mp4",
+  "bytes": 38638423,
+  "frames": 1431,
+  "width": 1080,
+  "height": 1920,
+  "durationSeconds": 23.916009,
+  "audioPacketsCopiedExactly": 1031,
+  "allFrameTimesUnchanged": true,
+  "bottomCropPixels": 0,
+  "sourcePictureScaled": false,
+  "sourceGeometryAndOrientationVerified": [
+    {
+      "frame": 0,
+      "meanRgbDifference": 0.3801
+    },
+    {
+      "frame": 180,
+      "meanRgbDifference": 0.6004
+    },
+    {
+      "frame": 430,
+      "meanRgbDifference": 0.4641
+    },
+    {
+      "frame": 800,
+      "meanRgbDifference": 0.3936
+    },
+    {
+      "frame": 990,
+      "meanRgbDifference": 0.7208
+    },
+    {
+      "frame": 1310,
+      "meanRgbDifference": 0.8648
+    },
+    {
+      "frame": 1430,
+      "meanRgbDifference": 0.0
+    }
+  ],
+  "captionWords": 73,
+  "captionPages": 34,
+  "opaqueCaptionFramesVerified": 1431,
+  "maximumCaptionBoardMeanRgbDifference": 2.4103,
+  "sourceTextCoverageSamples": 191,
+  "sourceTextBoundsIncludingOutline": [
+    259,
+    1216,
+    822,
+    1343
+  ],
+  "sign": {
+    "width": 850,
+    "height": 200
+  },
+  "highlightColor": "#e6c777",
+  "completeVideoDecodePassed": true,
+  "advertisementLayers": 0,
+  "browserPlayback": {
+    "width": 1080,
+    "height": 1920,
+    "duration": 23.916009,
+    "finalSeekSeconds": 23.578528,
+    "error": null,
+    "codecSupported": "probably",
+    "errors": []
+  },
+  "sha256": "0297b9194e0f3399af3f8f9dffc2d5425e7e88f387eadacec928a829687bece7"
+}
