@@ -1,0 +1,24 @@
+{
+  "id": "06-hunt-2",
+  "kind": "story",
+  "series": "Охота на Прайма",
+  "part": 2,
+  "parts": 3,
+  "title": "Он стёр её\nиз ВСЕХ вселенных",
+  "regions": [
+    "trap"
+  ],
+  "segments": [
+    [
+      477.0,
+      543.5
+    ]
+  ],
+  "file": "06-hunt-2.mp4",
+  "frames": 1995,
+  "duration": 66.5,
+  "videoDuration": 66.5,
+  "bytes": 19620177,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

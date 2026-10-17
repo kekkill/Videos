@@ -1,0 +1,9 @@
+node_modules/
+out/
+public/media/
+.env
+__pycache__/
+data/*-transcript.json
+!data/*-reviewed-transcript.json
+data/*-transcript-source.json
+data/*.partial.json

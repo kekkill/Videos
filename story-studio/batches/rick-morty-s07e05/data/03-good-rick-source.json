@@ -1,0 +1,21 @@
+{
+  "id": "03-good-rick",
+  "kind": "moment",
+  "title": "«Я ХОРОШИЙ РИК»\nПродержался недолго",
+  "regions": [
+    "good-rick"
+  ],
+  "segments": [
+    [
+      548.7,
+      598.55
+    ]
+  ],
+  "file": "03-good-rick.mp4",
+  "frames": 1496,
+  "duration": 49.866667,
+  "videoDuration": 49.866667,
+  "bytes": 12523766,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

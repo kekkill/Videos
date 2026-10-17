@@ -1,0 +1,24 @@
+{
+  "id": "07-hunt-3",
+  "kind": "story",
+  "series": "Охота на Прайма",
+  "part": 3,
+  "parts": 3,
+  "title": "Из этой ловушки\nещё НИКТО не сбегал",
+  "regions": [
+    "escape"
+  ],
+  "segments": [
+    [
+      671.2,
+      744.6
+    ]
+  ],
+  "file": "07-hunt-3.mp4",
+  "frames": 2202,
+  "duration": 73.4,
+  "videoDuration": 73.4,
+  "bytes": 37407984,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

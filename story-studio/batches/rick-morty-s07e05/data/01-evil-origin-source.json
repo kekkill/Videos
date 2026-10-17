@@ -1,0 +1,25 @@
+{
+  "id": "01-evil-origin",
+  "kind": "moment",
+  "title": "Вот почему Морти\nстал ЗЛЫМ",
+  "regions": [
+    "origin"
+  ],
+  "segments": [
+    [
+      22.5,
+      46.7
+    ],
+    [
+      56.25,
+      86.6
+    ]
+  ],
+  "file": "01-evil-origin.mp4",
+  "frames": 1637,
+  "duration": 54.566667,
+  "videoDuration": 54.566667,
+  "bytes": 10950078,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

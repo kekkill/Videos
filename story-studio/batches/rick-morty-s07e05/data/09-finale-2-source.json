@@ -1,0 +1,33 @@
+{
+  "id": "09-finale-2",
+  "kind": "story",
+  "series": "Финал охоты",
+  "part": 2,
+  "parts": 3,
+  "title": "Прайм не заметил\nГЛАВНУЮ подмену",
+  "regions": [
+    "trick",
+    "interrogation"
+  ],
+  "segments": [
+    [
+      1015.0,
+      1060.3
+    ],
+    [
+      1064.1,
+      1082.5
+    ],
+    [
+      1089.25,
+      1109.65
+    ]
+  ],
+  "file": "09-finale-2.mp4",
+  "frames": 2523,
+  "duration": 84.1,
+  "videoDuration": 84.1,
+  "bytes": 26587105,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

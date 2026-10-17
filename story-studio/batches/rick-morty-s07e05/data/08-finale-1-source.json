@@ -1,0 +1,24 @@
+{
+  "id": "08-finale-1",
+  "kind": "story",
+  "series": "Финал охоты",
+  "part": 1,
+  "parts": 3,
+  "title": "Рик нашёл того,\nкто УБИЛ его жену",
+  "regions": [
+    "battle"
+  ],
+  "segments": [
+    [
+      834.2,
+      904.0
+    ]
+  ],
+  "file": "08-finale-1.mp4",
+  "frames": 2094,
+  "duration": 69.8,
+  "videoDuration": 69.8,
+  "bytes": 28160331,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

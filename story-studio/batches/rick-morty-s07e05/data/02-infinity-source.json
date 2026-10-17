@@ -1,0 +1,21 @@
+{
+  "id": "02-infinity",
+  "kind": "moment",
+  "title": "Открыли портал.\nПожалели ВСЕ",
+  "regions": [
+    "infinity"
+  ],
+  "segments": [
+    [
+      181.8,
+      200.6
+    ]
+  ],
+  "file": "02-infinity.mp4",
+  "frames": 564,
+  "duration": 18.8,
+  "videoDuration": 18.8,
+  "bytes": 6810788,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

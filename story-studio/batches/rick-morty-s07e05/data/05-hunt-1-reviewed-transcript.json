@@ -1,0 +1,1521 @@
+[
+  {
+    "start": 0.2,
+    "end": 62.12,
+    "text": " Какого хера ты творишь? Ебать, Злой Морти! Мне сбегать за сетью! Да! Ща, Морти сбегает за сетью. Погоди, это то, о чём я подумал? Само собой, мысли меня не подводят. По сути, ты делаешь гидроразрыв центральной конечной кривой, чтобы выловить версию себя. Лучше б ты и дальше в огурчик превращался. Тебе-то какая разница, что я делаю с кривой? Я думал, твоя главная цель — это съебаться. Я прям даже зафанател. Ты прав, я здесь не живу. Тем безумнее тот факт, что ты умудряешься меня беспокоить. Неужели у ударных волн такая дальность? Боже, это был не комплимент. У мартышки трахающей дробовик тоже большая дальность. И что это за матрица сканирования? Не трожь! Зачем её трогать, если я не хочу делать её лучше? Лучше? Ты бьёшь по бесконечным мишеням. Хотя бы сделай фильтр для статистических вероятностей. Я и собирался, вообще-то. Я не нашёл сеть! Может, пристрелим его? Ты правда думаешь, что этот ехидный говнюк пришёл без защитного поля? Да, послушай дедулю, Морти. Ах, было бы глупо не проверить. Я не пойду, просто так на попятную. Ты что-то поменял? Он ставит фильтр для статистических вероятностей Ты всё ещё здесь?",
+    "words": [
+      {
+        "word": " Какого",
+        "start": 0.2,
+        "end": 0.56,
+        "probability": 0.9934479296207428,
+        "sourceStart": 316.3,
+        "sourceEnd": 316.66
+      },
+      {
+        "word": " хера",
+        "start": 0.56,
+        "end": 0.8,
+        "probability": 0.9971493482589722,
+        "sourceStart": 316.66,
+        "sourceEnd": 316.9
+      },
+      {
+        "word": " ты",
+        "start": 0.8,
+        "end": 0.92,
+        "probability": 0.9995569586753845,
+        "sourceStart": 316.9,
+        "sourceEnd": 317.02
+      },
+      {
+        "word": " творишь?",
+        "start": 0.92,
+        "end": 1.38,
+        "probability": 0.9996853768825531,
+        "sourceStart": 317.02,
+        "sourceEnd": 317.48
+      },
+      {
+        "word": " Ебать,",
+        "start": 1.48,
+        "end": 1.84,
+        "probability": 0.9838254253069559,
+        "sourceStart": 317.58,
+        "sourceEnd": 317.94
+      },
+      {
+        "word": " Злой",
+        "start": 1.92,
+        "end": 2.1,
+        "probability": 0.6650475815404207,
+        "sourceStart": 318.02,
+        "sourceEnd": 318.2
+      },
+      {
+        "word": " Морти!",
+        "start": 2.1,
+        "end": 2.48,
+        "probability": 0.9950663646062216,
+        "sourceStart": 318.2,
+        "sourceEnd": 318.58
+      },
+      {
+        "word": " Мне",
+        "start": 2.66,
+        "end": 3.02,
+        "probability": 0.9861302971839905,
+        "sourceStart": 318.76,
+        "sourceEnd": 319.12
+      },
+      {
+        "word": " сбегать",
+        "start": 3.02,
+        "end": 3.42,
+        "probability": 0.9967379967371622,
+        "sourceStart": 319.12,
+        "sourceEnd": 319.52
+      },
+      {
+        "word": " за",
+        "start": 3.42,
+        "end": 3.52,
+        "probability": 0.9996976852416992,
+        "sourceStart": 319.52,
+        "sourceEnd": 319.62
+      },
+      {
+        "word": " сетью!",
+        "start": 3.52,
+        "end": 3.9,
+        "probability": 0.9897163311640421,
+        "sourceStart": 319.62,
+        "sourceEnd": 320.0
+      },
+      {
+        "word": " Да!",
+        "start": 4.08,
+        "end": 4.3,
+        "probability": 0.9881376624107361,
+        "sourceStart": 320.18,
+        "sourceEnd": 320.4
+      },
+      {
+        "word": " Ща,",
+        "start": 5.22,
+        "end": 5.58,
+        "probability": 0.546347588300705,
+        "sourceStart": 321.32,
+        "sourceEnd": 321.68
+      },
+      {
+        "word": " Морти",
+        "start": 5.7,
+        "end": 5.9,
+        "probability": 0.9966741402943929,
+        "sourceStart": 321.8,
+        "sourceEnd": 322.0
+      },
+      {
+        "word": " сбегает",
+        "start": 5.9,
+        "end": 6.22,
+        "probability": 0.9527571400006613,
+        "sourceStart": 322.0,
+        "sourceEnd": 322.32
+      },
+      {
+        "word": " за",
+        "start": 6.22,
+        "end": 6.34,
+        "probability": 0.9999018907546997,
+        "sourceStart": 322.32,
+        "sourceEnd": 322.44
+      },
+      {
+        "word": " сетью.",
+        "start": 6.34,
+        "end": 6.68,
+        "probability": 0.9996350804964701,
+        "sourceStart": 322.44,
+        "sourceEnd": 322.78
+      },
+      {
+        "word": " Погоди,",
+        "start": 6.86,
+        "end": 7.22,
+        "probability": 0.9965969920158386,
+        "sourceStart": 322.96,
+        "sourceEnd": 323.32
+      },
+      {
+        "word": " это",
+        "start": 7.3,
+        "end": 7.38,
+        "probability": 0.9987768530845642,
+        "sourceStart": 323.4,
+        "sourceEnd": 323.48
+      },
+      {
+        "word": " то,",
+        "start": 7.38,
+        "end": 7.52,
+        "probability": 0.9993640780448914,
+        "sourceStart": 323.48,
+        "sourceEnd": 323.62
+      },
+      {
+        "word": " о",
+        "start": 7.52,
+        "end": 7.68,
+        "probability": 0.9973282814025879,
+        "sourceStart": 323.62,
+        "sourceEnd": 323.78
+      },
+      {
+        "word": " чём",
+        "start": 7.68,
+        "end": 7.72,
+        "probability": 0.9603921175003052,
+        "sourceStart": 323.78,
+        "sourceEnd": 323.82
+      },
+      {
+        "word": " я",
+        "start": 7.72,
+        "end": 7.84,
+        "probability": 0.9998530149459839,
+        "sourceStart": 323.82,
+        "sourceEnd": 323.94
+      },
+      {
+        "word": " подумал?",
+        "start": 7.84,
+        "end": 8.3,
+        "probability": 0.9992054998874664,
+        "sourceStart": 323.94,
+        "sourceEnd": 324.4
+      },
+      {
+        "word": " Само",
+        "start": 8.76,
+        "end": 9.12,
+        "probability": 0.9947417676448822,
+        "sourceStart": 324.86,
+        "sourceEnd": 325.22
+      },
+      {
+        "word": " собой,",
+        "start": 9.12,
+        "end": 9.4,
+        "probability": 0.999504566192627,
+        "sourceStart": 325.22,
+        "sourceEnd": 325.5
+      },
+      {
+        "word": " мысли",
+        "start": 9.5,
+        "end": 9.86,
+        "probability": 0.9984158575534821,
+        "sourceStart": 325.6,
+        "sourceEnd": 325.96
+      },
+      {
+        "word": " меня",
+        "start": 9.86,
+        "end": 9.98,
+        "probability": 0.4914591610431671,
+        "sourceStart": 325.96,
+        "sourceEnd": 326.08
+      },
+      {
+        "word": " не",
+        "start": 9.98,
+        "end": 10.1,
+        "probability": 0.9995688796043396,
+        "sourceStart": 326.08,
+        "sourceEnd": 326.2
+      },
+      {
+        "word": " подводят.",
+        "start": 10.1,
+        "end": 10.52,
+        "probability": 0.9994900226593018,
+        "sourceStart": 326.2,
+        "sourceEnd": 326.62
+      },
+      {
+        "word": " По",
+        "start": 10.68,
+        "end": 10.96,
+        "probability": 0.9988419413566589,
+        "sourceStart": 326.78,
+        "sourceEnd": 327.06
+      },
+      {
+        "word": " сути,",
+        "start": 10.96,
+        "end": 11.18,
+        "probability": 0.999676525592804,
+        "sourceStart": 327.06,
+        "sourceEnd": 327.28
+      },
+      {
+        "word": " ты",
+        "start": 11.26,
+        "end": 11.32,
+        "probability": 0.9998157620429993,
+        "sourceStart": 327.36,
+        "sourceEnd": 327.42
+      },
+      {
+        "word": " делаешь",
+        "start": 11.32,
+        "end": 11.64,
+        "probability": 0.999685674905777,
+        "sourceStart": 327.42,
+        "sourceEnd": 327.74
+      },
+      {
+        "word": " гидроразрыв",
+        "start": 11.64,
+        "end": 12.3,
+        "probability": 0.979875385761261,
+        "sourceStart": 327.74,
+        "sourceEnd": 328.4
+      },
+      {
+        "word": " центральной",
+        "start": 12.3,
+        "end": 12.74,
+        "probability": 0.9584507942199707,
+        "sourceStart": 328.4,
+        "sourceEnd": 328.84
+      },
+      {
+        "word": " конечной",
+        "start": 12.74,
+        "end": 13.12,
+        "probability": 0.993613620599111,
+        "sourceStart": 328.84,
+        "sourceEnd": 329.22
+      },
+      {
+        "word": " кривой,",
+        "start": 13.12,
+        "end": 13.4,
+        "probability": 0.9956909815470377,
+        "sourceStart": 329.22,
+        "sourceEnd": 329.5
+      },
+      {
+        "word": " чтобы",
+        "start": 13.46,
+        "end": 13.58,
+        "probability": 0.7616143822669983,
+        "sourceStart": 329.56,
+        "sourceEnd": 329.68
+      },
+      {
+        "word": " выловить",
+        "start": 13.58,
+        "end": 13.94,
+        "probability": 0.9990570942560831,
+        "sourceStart": 329.68,
+        "sourceEnd": 330.04
+      },
+      {
+        "word": " версию",
+        "start": 13.94,
+        "end": 14.28,
+        "probability": 0.9988560676574707,
+        "sourceStart": 330.04,
+        "sourceEnd": 330.38
+      },
+      {
+        "word": " себя.",
+        "start": 14.28,
+        "end": 14.54,
+        "probability": 0.9939179420471191,
+        "sourceStart": 330.38,
+        "sourceEnd": 330.64
+      },
+      {
+        "word": " Лучше",
+        "start": 14.78,
+        "end": 15.12,
+        "probability": 0.998890201250712,
+        "sourceStart": 330.88,
+        "sourceEnd": 331.22
+      },
+      {
+        "word": " б",
+        "start": 15.12,
+        "end": 15.2,
+        "probability": 0.9115595817565918,
+        "sourceStart": 331.22,
+        "sourceEnd": 331.3
+      },
+      {
+        "word": " ты",
+        "start": 15.2,
+        "end": 15.32,
+        "probability": 0.9990554451942444,
+        "sourceStart": 331.3,
+        "sourceEnd": 331.42
+      },
+      {
+        "word": " и",
+        "start": 15.32,
+        "end": 15.46,
+        "probability": 0.5334978103637695,
+        "sourceStart": 331.42,
+        "sourceEnd": 331.56
+      },
+      {
+        "word": " дальше",
+        "start": 15.46,
+        "end": 15.68,
+        "probability": 0.9996029734611511,
+        "sourceStart": 331.56,
+        "sourceEnd": 331.78
+      },
+      {
+        "word": " в",
+        "start": 15.68,
+        "end": 15.84,
+        "probability": 0.999518632888794,
+        "sourceStart": 331.78,
+        "sourceEnd": 331.94
+      },
+      {
+        "word": " огурчик",
+        "start": 15.84,
+        "end": 16.18,
+        "probability": 0.9949839115142822,
+        "sourceStart": 331.94,
+        "sourceEnd": 332.28
+      },
+      {
+        "word": " превращался.",
+        "start": 16.18,
+        "end": 16.8,
+        "probability": 0.9997450908025106,
+        "sourceStart": 332.28,
+        "sourceEnd": 332.9
+      },
+      {
+        "word": " Тебе",
+        "start": 17.08,
+        "end": 17.44,
+        "probability": 0.9878754019737244,
+        "sourceStart": 333.18,
+        "sourceEnd": 333.54
+      },
+      {
+        "word": "-то",
+        "start": 17.44,
+        "end": 17.46,
+        "probability": 0.9976309537887573,
+        "sourceStart": 333.54,
+        "sourceEnd": 333.56
+      },
+      {
+        "word": " какая",
+        "start": 17.46,
+        "end": 17.62,
+        "probability": 0.9858312606811523,
+        "sourceStart": 333.56,
+        "sourceEnd": 333.72
+      },
+      {
+        "word": " разница,",
+        "start": 17.62,
+        "end": 17.96,
+        "probability": 0.9996123909950256,
+        "sourceStart": 333.72,
+        "sourceEnd": 334.06
+      },
+      {
+        "word": " что",
+        "start": 18.02,
+        "end": 18.12,
+        "probability": 0.999813973903656,
+        "sourceStart": 334.12,
+        "sourceEnd": 334.22
+      },
+      {
+        "word": " я",
+        "start": 18.12,
+        "end": 18.22,
+        "probability": 0.9998632669448853,
+        "sourceStart": 334.22,
+        "sourceEnd": 334.32
+      },
+      {
+        "word": " делаю",
+        "start": 18.22,
+        "end": 18.44,
+        "probability": 0.9997178614139557,
+        "sourceStart": 334.32,
+        "sourceEnd": 334.54
+      },
+      {
+        "word": " с",
+        "start": 18.44,
+        "end": 18.54,
+        "probability": 0.999165415763855,
+        "sourceStart": 334.54,
+        "sourceEnd": 334.64
+      },
+      {
+        "word": " кривой?",
+        "start": 18.54,
+        "end": 18.82,
+        "probability": 0.9992139140764872,
+        "sourceStart": 334.64,
+        "sourceEnd": 334.92
+      },
+      {
+        "word": " Я",
+        "start": 18.88,
+        "end": 18.96,
+        "probability": 0.9987607002258301,
+        "sourceStart": 334.98,
+        "sourceEnd": 335.06
+      },
+      {
+        "word": " думал,",
+        "start": 18.96,
+        "end": 19.18,
+        "probability": 0.9992721974849701,
+        "sourceStart": 335.06,
+        "sourceEnd": 335.28
+      },
+      {
+        "word": " твоя",
+        "start": 19.24,
+        "end": 19.38,
+        "probability": 0.9912311136722565,
+        "sourceStart": 335.34,
+        "sourceEnd": 335.48
+      },
+      {
+        "word": " главная",
+        "start": 19.38,
+        "end": 19.66,
+        "probability": 0.9997616410255432,
+        "sourceStart": 335.48,
+        "sourceEnd": 335.76
+      },
+      {
+        "word": " цель",
+        "start": 19.66,
+        "end": 19.84,
+        "probability": 0.9991293251514435,
+        "sourceStart": 335.76,
+        "sourceEnd": 335.94
+      },
+      {
+        "word": " —",
+        "start": 19.84,
+        "end": 19.9,
+        "probability": 0.5632264614105225,
+        "sourceStart": 335.94,
+        "sourceEnd": 336.0
+      },
+      {
+        "word": " это",
+        "start": 19.9,
+        "end": 19.94,
+        "probability": 0.9991447925567627,
+        "sourceStart": 336.0,
+        "sourceEnd": 336.04
+      },
+      {
+        "word": " съебаться.",
+        "start": 19.94,
+        "end": 20.4,
+        "probability": 0.9898383021354675,
+        "sourceStart": 336.04,
+        "sourceEnd": 336.5
+      },
+      {
+        "word": " Я",
+        "start": 20.52,
+        "end": 20.6,
+        "probability": 0.9980119466781616,
+        "sourceStart": 336.62,
+        "sourceEnd": 336.7
+      },
+      {
+        "word": " прям",
+        "start": 20.6,
+        "end": 20.76,
+        "probability": 0.983548104763031,
+        "sourceStart": 336.7,
+        "sourceEnd": 336.86
+      },
+      {
+        "word": " даже",
+        "start": 20.76,
+        "end": 21.0,
+        "probability": 0.9994311928749084,
+        "sourceStart": 336.86,
+        "sourceEnd": 337.1
+      },
+      {
+        "word": " зафанател.",
+        "start": 21.0,
+        "end": 21.68,
+        "probability": 0.9948277950286866,
+        "sourceStart": 337.1,
+        "sourceEnd": 337.78
+      },
+      {
+        "word": " Ты",
+        "start": 21.84,
+        "end": 22.02,
+        "probability": 0.9987877011299133,
+        "sourceStart": 337.94,
+        "sourceEnd": 338.12
+      },
+      {
+        "word": " прав,",
+        "start": 22.02,
+        "end": 22.24,
+        "probability": 0.9996529817581177,
+        "sourceStart": 338.12,
+        "sourceEnd": 338.34
+      },
+      {
+        "word": " я",
+        "start": 22.36,
+        "end": 22.48,
+        "probability": 0.9998644590377808,
+        "sourceStart": 338.46,
+        "sourceEnd": 338.58
+      },
+      {
+        "word": " здесь",
+        "start": 22.48,
+        "end": 22.64,
+        "probability": 0.9997618794441223,
+        "sourceStart": 338.58,
+        "sourceEnd": 338.74
+      },
+      {
+        "word": " не",
+        "start": 22.64,
+        "end": 22.82,
+        "probability": 0.999941349029541,
+        "sourceStart": 338.74,
+        "sourceEnd": 338.92
+      },
+      {
+        "word": " живу.",
+        "start": 22.82,
+        "end": 23.12,
+        "probability": 0.9997672140598297,
+        "sourceStart": 338.92,
+        "sourceEnd": 339.22
+      },
+      {
+        "word": " Тем",
+        "start": 23.26,
+        "end": 23.38,
+        "probability": 0.9885386824607849,
+        "sourceStart": 339.36,
+        "sourceEnd": 339.48
+      },
+      {
+        "word": " безумнее",
+        "start": 23.38,
+        "end": 23.8,
+        "probability": 0.9942925175031027,
+        "sourceStart": 339.48,
+        "sourceEnd": 339.9
+      },
+      {
+        "word": " тот",
+        "start": 23.8,
+        "end": 23.94,
+        "probability": 0.9977763295173645,
+        "sourceStart": 339.9,
+        "sourceEnd": 340.04
+      },
+      {
+        "word": " факт,",
+        "start": 23.94,
+        "end": 24.18,
+        "probability": 0.9995981156826019,
+        "sourceStart": 340.04,
+        "sourceEnd": 340.28
+      },
+      {
+        "word": " что",
+        "start": 24.2,
+        "end": 24.28,
+        "probability": 0.9987749457359314,
+        "sourceStart": 340.3,
+        "sourceEnd": 340.38
+      },
+      {
+        "word": " ты",
+        "start": 24.28,
+        "end": 24.38,
+        "probability": 0.9997602105140686,
+        "sourceStart": 340.38,
+        "sourceEnd": 340.48
+      },
+      {
+        "word": " умудряешься",
+        "start": 24.38,
+        "end": 24.84,
+        "probability": 0.9993407249450683,
+        "sourceStart": 340.48,
+        "sourceEnd": 340.94
+      },
+      {
+        "word": " меня",
+        "start": 24.84,
+        "end": 24.94,
+        "probability": 0.9991069436073303,
+        "sourceStart": 340.94,
+        "sourceEnd": 341.04
+      },
+      {
+        "word": " беспокоить.",
+        "start": 24.94,
+        "end": 25.5,
+        "probability": 0.9992692470550537,
+        "sourceStart": 341.04,
+        "sourceEnd": 341.6
+      },
+      {
+        "word": " Неужели",
+        "start": 25.5,
+        "end": 26.14,
+        "probability": 0.9423079490661621,
+        "sourceStart": 341.6,
+        "sourceEnd": 342.24
+      },
+      {
+        "word": " у",
+        "start": 26.14,
+        "end": 26.26,
+        "probability": 0.9621477127075195,
+        "sourceStart": 342.24,
+        "sourceEnd": 342.36
+      },
+      {
+        "word": " ударных",
+        "start": 26.26,
+        "end": 26.58,
+        "probability": 0.9888654351234436,
+        "sourceStart": 342.36,
+        "sourceEnd": 342.68
+      },
+      {
+        "word": " волн",
+        "start": 26.58,
+        "end": 26.8,
+        "probability": 0.9984846711158752,
+        "sourceStart": 342.68,
+        "sourceEnd": 342.9
+      },
+      {
+        "word": " такая",
+        "start": 26.8,
+        "end": 27.02,
+        "probability": 0.9695711135864258,
+        "sourceStart": 342.9,
+        "sourceEnd": 343.12
+      },
+      {
+        "word": " дальность?",
+        "start": 27.02,
+        "end": 27.54,
+        "probability": 0.9939626455307007,
+        "sourceStart": 343.12,
+        "sourceEnd": 343.64
+      },
+      {
+        "word": " Боже,",
+        "start": 27.68,
+        "end": 27.86,
+        "probability": 0.9423161447048187,
+        "sourceStart": 343.78,
+        "sourceEnd": 343.96
+      },
+      {
+        "word": " это",
+        "start": 27.9,
+        "end": 28.0,
+        "probability": 0.8586026430130005,
+        "sourceStart": 344.0,
+        "sourceEnd": 344.1
+      },
+      {
+        "word": " был",
+        "start": 28.0,
+        "end": 28.16,
+        "probability": 0.9677944183349609,
+        "sourceStart": 344.1,
+        "sourceEnd": 344.26
+      },
+      {
+        "word": " не",
+        "start": 28.16,
+        "end": 28.26,
+        "probability": 0.9930400848388672,
+        "sourceStart": 344.26,
+        "sourceEnd": 344.36
+      },
+      {
+        "word": " комплимент.",
+        "start": 28.26,
+        "end": 28.78,
+        "probability": 0.9987929860750834,
+        "sourceStart": 344.36,
+        "sourceEnd": 344.88
+      },
+      {
+        "word": " У",
+        "start": 28.96,
+        "end": 29.12,
+        "probability": 0.9967945218086243,
+        "sourceStart": 345.06,
+        "sourceEnd": 345.22
+      },
+      {
+        "word": " мартышки",
+        "start": 29.12,
+        "end": 29.5,
+        "probability": 0.9556057304143906,
+        "sourceStart": 345.22,
+        "sourceEnd": 345.6
+      },
+      {
+        "word": " трахающей",
+        "start": 29.5,
+        "end": 29.92,
+        "probability": 0.9102697521448135,
+        "sourceStart": 345.6,
+        "sourceEnd": 346.02
+      },
+      {
+        "word": " дробовик",
+        "start": 29.92,
+        "end": 30.26,
+        "probability": 0.9989486038684845,
+        "sourceStart": 346.02,
+        "sourceEnd": 346.36
+      },
+      {
+        "word": " тоже",
+        "start": 30.26,
+        "end": 30.46,
+        "probability": 0.927790105342865,
+        "sourceStart": 346.36,
+        "sourceEnd": 346.56
+      },
+      {
+        "word": " большая",
+        "start": 30.46,
+        "end": 30.84,
+        "probability": 0.9986840486526489,
+        "sourceStart": 346.56,
+        "sourceEnd": 346.94
+      },
+      {
+        "word": " дальность.",
+        "start": 30.84,
+        "end": 31.24,
+        "probability": 0.9904817044734955,
+        "sourceStart": 346.94,
+        "sourceEnd": 347.34
+      },
+      {
+        "word": " И",
+        "start": 31.36,
+        "end": 31.5,
+        "probability": 0.9879096746444702,
+        "sourceStart": 347.46,
+        "sourceEnd": 347.6
+      },
+      {
+        "word": " что",
+        "start": 31.5,
+        "end": 31.66,
+        "probability": 0.9997668862342834,
+        "sourceStart": 347.6,
+        "sourceEnd": 347.76
+      },
+      {
+        "word": " это",
+        "start": 31.66,
+        "end": 31.78,
+        "probability": 0.9994450211524963,
+        "sourceStart": 347.76,
+        "sourceEnd": 347.88
+      },
+      {
+        "word": " за",
+        "start": 31.78,
+        "end": 31.92,
+        "probability": 0.9999035596847534,
+        "sourceStart": 347.88,
+        "sourceEnd": 348.02
+      },
+      {
+        "word": " матрица",
+        "start": 31.92,
+        "end": 32.24,
+        "probability": 0.9973370035489401,
+        "sourceStart": 348.02,
+        "sourceEnd": 348.34
+      },
+      {
+        "word": " сканирования?",
+        "start": 32.24,
+        "end": 32.82,
+        "probability": 0.9972667694091797,
+        "sourceStart": 348.34,
+        "sourceEnd": 348.92
+      },
+      {
+        "word": " Не",
+        "start": 32.88,
+        "end": 32.98,
+        "probability": 0.9473356604576111,
+        "sourceStart": 348.98,
+        "sourceEnd": 349.08
+      },
+      {
+        "word": " трожь!",
+        "start": 32.98,
+        "end": 33.2,
+        "probability": 0.8961755037307739,
+        "sourceStart": 349.08,
+        "sourceEnd": 349.3
+      },
+      {
+        "word": " Зачем",
+        "start": 33.22,
+        "end": 33.5,
+        "probability": 0.9974074959754944,
+        "sourceStart": 349.32,
+        "sourceEnd": 349.6
+      },
+      {
+        "word": " её",
+        "start": 33.5,
+        "end": 33.62,
+        "probability": 0.9623411893844604,
+        "sourceStart": 349.6,
+        "sourceEnd": 349.72
+      },
+      {
+        "word": " трогать,",
+        "start": 33.62,
+        "end": 33.96,
+        "probability": 0.9998741149902344,
+        "sourceStart": 349.72,
+        "sourceEnd": 350.06
+      },
+      {
+        "word": " если",
+        "start": 34.02,
+        "end": 34.1,
+        "probability": 0.9999281167984009,
+        "sourceStart": 350.12,
+        "sourceEnd": 350.2
+      },
+      {
+        "word": " я",
+        "start": 34.1,
+        "end": 34.2,
+        "probability": 0.9994831085205078,
+        "sourceStart": 350.2,
+        "sourceEnd": 350.3
+      },
+      {
+        "word": " не",
+        "start": 34.2,
+        "end": 34.28,
+        "probability": 0.999873161315918,
+        "sourceStart": 350.3,
+        "sourceEnd": 350.38
+      },
+      {
+        "word": " хочу",
+        "start": 34.28,
+        "end": 34.48,
+        "probability": 0.9999144077301025,
+        "sourceStart": 350.38,
+        "sourceEnd": 350.58
+      },
+      {
+        "word": " делать",
+        "start": 34.48,
+        "end": 34.66,
+        "probability": 0.9992067217826843,
+        "sourceStart": 350.58,
+        "sourceEnd": 350.76
+      },
+      {
+        "word": " её",
+        "start": 34.66,
+        "end": 34.86,
+        "probability": 0.999333918094635,
+        "sourceStart": 350.76,
+        "sourceEnd": 350.96
+      },
+      {
+        "word": " лучше?",
+        "start": 34.86,
+        "end": 35.14,
+        "probability": 0.9998884201049805,
+        "sourceStart": 350.96,
+        "sourceEnd": 351.24
+      },
+      {
+        "word": " Лучше?",
+        "start": 35.52,
+        "end": 35.92,
+        "probability": 0.9948926766713461,
+        "sourceStart": 351.62,
+        "sourceEnd": 352.02
+      },
+      {
+        "word": " Ты",
+        "start": 36.02,
+        "end": 36.18,
+        "probability": 0.9958922863006592,
+        "sourceStart": 352.12,
+        "sourceEnd": 352.28
+      },
+      {
+        "word": " бьёшь",
+        "start": 36.18,
+        "end": 36.46,
+        "probability": 0.9953859001398087,
+        "sourceStart": 352.28,
+        "sourceEnd": 352.56
+      },
+      {
+        "word": " по",
+        "start": 36.46,
+        "end": 36.58,
+        "probability": 0.9995880722999573,
+        "sourceStart": 352.56,
+        "sourceEnd": 352.68
+      },
+      {
+        "word": " бесконечным",
+        "start": 36.58,
+        "end": 37.06,
+        "probability": 0.999669998884201,
+        "sourceStart": 352.68,
+        "sourceEnd": 353.16
+      },
+      {
+        "word": " мишеням.",
+        "start": 37.06,
+        "end": 37.46,
+        "probability": 0.9970191568136215,
+        "sourceStart": 353.16,
+        "sourceEnd": 353.56
+      },
+      {
+        "word": " Хотя",
+        "start": 37.54,
+        "end": 37.66,
+        "probability": 0.9944936633110046,
+        "sourceStart": 353.64,
+        "sourceEnd": 353.76
+      },
+      {
+        "word": " бы",
+        "start": 37.66,
+        "end": 37.78,
+        "probability": 0.9999277591705322,
+        "sourceStart": 353.76,
+        "sourceEnd": 353.88
+      },
+      {
+        "word": " сделай",
+        "start": 37.78,
+        "end": 38.06,
+        "probability": 0.9996483623981476,
+        "sourceStart": 353.88,
+        "sourceEnd": 354.16
+      },
+      {
+        "word": " фильтр",
+        "start": 38.06,
+        "end": 38.38,
+        "probability": 0.9918716549873352,
+        "sourceStart": 354.16,
+        "sourceEnd": 354.48
+      },
+      {
+        "word": " для",
+        "start": 38.38,
+        "end": 38.5,
+        "probability": 0.9995430707931519,
+        "sourceStart": 354.48,
+        "sourceEnd": 354.6
+      },
+      {
+        "word": " статистических",
+        "start": 38.5,
+        "end": 38.96,
+        "probability": 0.9995880722999573,
+        "sourceStart": 354.6,
+        "sourceEnd": 355.06
+      },
+      {
+        "word": " вероятностей.",
+        "start": 38.96,
+        "end": 39.66,
+        "probability": 0.9941927909851074,
+        "sourceStart": 355.06,
+        "sourceEnd": 355.76
+      },
+      {
+        "word": " Я",
+        "start": 39.94,
+        "end": 40.16,
+        "probability": 0.999607503414154,
+        "sourceStart": 356.04,
+        "sourceEnd": 356.26
+      },
+      {
+        "word": " и",
+        "start": 40.16,
+        "end": 40.28,
+        "probability": 0.9986324906349182,
+        "sourceStart": 356.26,
+        "sourceEnd": 356.38
+      },
+      {
+        "word": " собирался,",
+        "start": 40.28,
+        "end": 40.78,
+        "probability": 0.9997458755970001,
+        "sourceStart": 356.38,
+        "sourceEnd": 356.88
+      },
+      {
+        "word": " вообще",
+        "start": 40.82,
+        "end": 41.14,
+        "probability": 0.9992613196372986,
+        "sourceStart": 356.92,
+        "sourceEnd": 357.24
+      },
+      {
+        "word": "-то.",
+        "start": 41.14,
+        "end": 41.34,
+        "probability": 0.9999570250511169,
+        "sourceStart": 357.24,
+        "sourceEnd": 357.44
+      },
+      {
+        "word": " Я",
+        "start": 42.24,
+        "end": 42.64,
+        "probability": 0.8100630044937134,
+        "sourceStart": 358.34,
+        "sourceEnd": 358.74
+      },
+      {
+        "word": " не",
+        "start": 42.64,
+        "end": 42.76,
+        "probability": 0.9994645714759827,
+        "sourceStart": 358.74,
+        "sourceEnd": 358.86
+      },
+      {
+        "word": " нашёл",
+        "start": 42.76,
+        "end": 43.04,
+        "probability": 0.9975851774215698,
+        "sourceStart": 358.86,
+        "sourceEnd": 359.14
+      },
+      {
+        "word": " сеть!",
+        "start": 43.04,
+        "end": 43.28,
+        "probability": 0.9736329317092896,
+        "sourceStart": 359.14,
+        "sourceEnd": 359.38
+      },
+      {
+        "word": " Может,",
+        "start": 43.44,
+        "end": 43.78,
+        "probability": 0.9980143308639526,
+        "sourceStart": 359.54,
+        "sourceEnd": 359.88
+      },
+      {
+        "word": " пристрелим",
+        "start": 43.88,
+        "end": 44.32,
+        "probability": 0.9991276860237122,
+        "sourceStart": 359.98,
+        "sourceEnd": 360.42
+      },
+      {
+        "word": " его?",
+        "start": 44.32,
+        "end": 44.5,
+        "probability": 0.9997039437294006,
+        "sourceStart": 360.42,
+        "sourceEnd": 360.6
+      },
+      {
+        "word": " Ты",
+        "start": 44.64,
+        "end": 44.84,
+        "probability": 0.9987136125564575,
+        "sourceStart": 360.74,
+        "sourceEnd": 360.94
+      },
+      {
+        "word": " правда",
+        "start": 44.84,
+        "end": 45.06,
+        "probability": 0.9964895844459534,
+        "sourceStart": 360.94,
+        "sourceEnd": 361.16
+      },
+      {
+        "word": " думаешь,",
+        "start": 45.06,
+        "end": 45.38,
+        "probability": 0.9990983605384827,
+        "sourceStart": 361.16,
+        "sourceEnd": 361.48
+      },
+      {
+        "word": " что",
+        "start": 45.42,
+        "end": 45.48,
+        "probability": 0.9998261332511902,
+        "sourceStart": 361.52,
+        "sourceEnd": 361.58
+      },
+      {
+        "word": " этот",
+        "start": 45.48,
+        "end": 45.6,
+        "probability": 0.9931095838546753,
+        "sourceStart": 361.58,
+        "sourceEnd": 361.7
+      },
+      {
+        "word": " ехидный",
+        "start": 45.6,
+        "end": 46.0,
+        "probability": 0.9947738647460938,
+        "sourceStart": 361.7,
+        "sourceEnd": 362.1
+      },
+      {
+        "word": " говнюк",
+        "start": 46.0,
+        "end": 46.34,
+        "probability": 0.9961050897836685,
+        "sourceStart": 362.1,
+        "sourceEnd": 362.44
+      },
+      {
+        "word": " пришёл",
+        "start": 46.34,
+        "end": 46.6,
+        "probability": 0.9977059960365295,
+        "sourceStart": 362.44,
+        "sourceEnd": 362.7
+      },
+      {
+        "word": " без",
+        "start": 46.6,
+        "end": 46.74,
+        "probability": 0.9958005547523499,
+        "sourceStart": 362.7,
+        "sourceEnd": 362.84
+      },
+      {
+        "word": " защитного",
+        "start": 46.74,
+        "end": 47.18,
+        "probability": 0.9943653345108032,
+        "sourceStart": 362.84,
+        "sourceEnd": 363.28
+      },
+      {
+        "word": " поля?",
+        "start": 47.18,
+        "end": 47.48,
+        "probability": 0.9995377361774445,
+        "sourceStart": 363.28,
+        "sourceEnd": 363.58
+      },
+      {
+        "word": " Да,",
+        "start": 47.58,
+        "end": 47.76,
+        "probability": 0.9994557499885559,
+        "sourceStart": 363.68,
+        "sourceEnd": 363.86
+      },
+      {
+        "word": " послушай",
+        "start": 47.86,
+        "end": 48.24,
+        "probability": 0.9933749735355377,
+        "sourceStart": 363.96,
+        "sourceEnd": 364.34
+      },
+      {
+        "word": " дедулю,",
+        "start": 48.24,
+        "end": 48.62,
+        "probability": 0.9679190516471863,
+        "sourceStart": 364.34,
+        "sourceEnd": 364.72
+      },
+      {
+        "word": " Морти.",
+        "start": 48.74,
+        "end": 48.98,
+        "probability": 0.8905557990074158,
+        "sourceStart": 364.84,
+        "sourceEnd": 365.08
+      },
+      {
+        "word": " Ах,",
+        "start": 50.02,
+        "end": 50.42,
+        "probability": 0.8053490221500397,
+        "sourceStart": 366.12,
+        "sourceEnd": 366.52
+      },
+      {
+        "word": " было",
+        "start": 50.48,
+        "end": 50.7,
+        "probability": 0.99940025806427,
+        "sourceStart": 366.58,
+        "sourceEnd": 366.8
+      },
+      {
+        "word": " бы",
+        "start": 50.7,
+        "end": 50.8,
+        "probability": 0.9999661445617676,
+        "sourceStart": 366.8,
+        "sourceEnd": 366.9
+      },
+      {
+        "word": " глупо",
+        "start": 50.8,
+        "end": 51.14,
+        "probability": 0.9996455113093058,
+        "sourceStart": 366.9,
+        "sourceEnd": 367.24
+      },
+      {
+        "word": " не",
+        "start": 51.14,
+        "end": 51.22,
+        "probability": 0.9979189038276672,
+        "sourceStart": 367.24,
+        "sourceEnd": 367.32
+      },
+      {
+        "word": " проверить.",
+        "start": 51.22,
+        "end": 51.7,
+        "probability": 0.999779611825943,
+        "sourceStart": 367.32,
+        "sourceEnd": 367.8
+      },
+      {
+        "word": " Я",
+        "start": 53.82,
+        "end": 54.22,
+        "probability": 0.9844077229499817,
+        "sourceStart": 369.92,
+        "sourceEnd": 370.32
+      },
+      {
+        "word": " не",
+        "start": 54.22,
+        "end": 54.34,
+        "probability": 0.9999755620956421,
+        "sourceStart": 370.32,
+        "sourceEnd": 370.44
+      },
+      {
+        "word": " пойду,",
+        "start": 54.34,
+        "end": 54.6,
+        "probability": 0.9997256100177765,
+        "sourceStart": 370.44,
+        "sourceEnd": 370.7
+      },
+      {
+        "word": " просто",
+        "start": 54.68,
+        "end": 54.9,
+        "probability": 0.9994505047798157,
+        "sourceStart": 370.78,
+        "sourceEnd": 371.0
+      },
+      {
+        "word": " так",
+        "start": 54.9,
+        "end": 55.12,
+        "probability": 0.9982089996337891,
+        "sourceStart": 371.0,
+        "sourceEnd": 371.22
+      },
+      {
+        "word": " на",
+        "start": 55.12,
+        "end": 55.24,
+        "probability": 0.7002877593040466,
+        "sourceStart": 371.22,
+        "sourceEnd": 371.34
+      },
+      {
+        "word": " попятную.",
+        "start": 55.24,
+        "end": 55.7,
+        "probability": 0.992908795674642,
+        "sourceStart": 371.34,
+        "sourceEnd": 371.8
+      },
+      {
+        "word": " Ты",
+        "start": 56.6,
+        "end": 57.2,
+        "probability": 0.9541122317314148,
+        "sourceStart": 372.7,
+        "sourceEnd": 373.3
+      },
+      {
+        "word": " что",
+        "start": 57.2,
+        "end": 57.58,
+        "probability": 0.6653778553009033,
+        "sourceStart": 373.3,
+        "sourceEnd": 373.68
+      },
+      {
+        "word": "-то",
+        "start": 57.58,
+        "end": 57.7,
+        "probability": 0.99724280834198,
+        "sourceStart": 373.68,
+        "sourceEnd": 373.8
+      },
+      {
+        "word": " поменял?",
+        "start": 57.7,
+        "end": 58.1,
+        "probability": 0.9993791580200195,
+        "sourceStart": 373.8,
+        "sourceEnd": 374.2
+      },
+      {
+        "word": " Он",
+        "start": 58.36,
+        "end": 58.58,
+        "probability": 0.9247275590896606,
+        "sourceStart": 374.46,
+        "sourceEnd": 374.68
+      },
+      {
+        "word": " ставит",
+        "start": 58.58,
+        "end": 58.88,
+        "probability": 0.9876102805137634,
+        "sourceStart": 374.68,
+        "sourceEnd": 374.98
+      },
+      {
+        "word": " фильтр",
+        "start": 58.88,
+        "end": 59.18,
+        "probability": 0.9994188547134399,
+        "sourceStart": 374.98,
+        "sourceEnd": 375.28
+      },
+      {
+        "word": " для",
+        "start": 59.18,
+        "end": 59.36,
+        "probability": 0.9944747090339661,
+        "sourceStart": 375.28,
+        "sourceEnd": 375.46
+      },
+      {
+        "word": " статистических",
+        "start": 59.36,
+        "end": 60.04,
+        "probability": 0.9992541670799255,
+        "sourceStart": 375.46,
+        "sourceEnd": 376.14
+      },
+      {
+        "word": " вероятностей",
+        "start": 60.04,
+        "end": 60.76,
+        "probability": 0.9723378777503967,
+        "sourceStart": 376.14,
+        "sourceEnd": 376.86
+      },
+      {
+        "word": " Ты",
+        "start": 60.76,
+        "end": 61.42,
+        "probability": 0.054471030831336975,
+        "sourceStart": 376.86,
+        "sourceEnd": 377.52
+      },
+      {
+        "word": " всё",
+        "start": 61.42,
+        "end": 61.62,
+        "probability": 0.9203165173530579,
+        "sourceStart": 377.52,
+        "sourceEnd": 377.72
+      },
+      {
+        "word": " ещё",
+        "start": 61.62,
+        "end": 61.84,
+        "probability": 0.9976165294647217,
+        "sourceStart": 377.72,
+        "sourceEnd": 377.94
+      },
+      {
+        "word": " здесь?",
+        "start": 61.84,
+        "end": 62.12,
+        "probability": 0.9996680021286011,
+        "sourceStart": 377.94,
+        "sourceEnd": 378.22
+      }
+    ]
+  }
+]

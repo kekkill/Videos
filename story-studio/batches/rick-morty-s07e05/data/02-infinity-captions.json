@@ -1,0 +1,284 @@
+[
+  {
+    "text": " Получилось!",
+    "startMs": 170,
+    "endMs": 1350,
+    "timestampMs": 760,
+    "confidence": 0.775818,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Теперь",
+    "startMs": 1510,
+    "endMs": 1770,
+    "timestampMs": 1640,
+    "confidence": 0.986362
+  },
+  {
+    "text": " нам",
+    "startMs": 1770,
+    "endMs": 1950,
+    "timestampMs": 1860,
+    "confidence": 0.969194
+  },
+  {
+    "text": " открыты",
+    "startMs": 1950,
+    "endMs": 2330,
+    "timestampMs": 2140,
+    "confidence": 0.996478,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " бесконечные",
+    "startMs": 2330,
+    "endMs": 2950,
+    "timestampMs": 2640,
+    "confidence": 0.98563
+  },
+  {
+    "text": " вселенные!",
+    "startMs": 2950,
+    "endMs": 3650,
+    "timestampMs": 3300,
+    "confidence": 0.990894,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Ура!",
+    "startMs": 3790,
+    "endMs": 4170,
+    "timestampMs": 3980,
+    "confidence": 0.891502,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " А",
+    "startMs": 4570,
+    "endMs": 4690,
+    "timestampMs": 4630,
+    "confidence": 0.982049
+  },
+  {
+    "text": " бесконечное",
+    "startMs": 4690,
+    "endMs": 5290,
+    "timestampMs": 4990,
+    "confidence": 0.995885
+  },
+  {
+    "text": " количество",
+    "startMs": 5290,
+    "endMs": 5550,
+    "timestampMs": 5420,
+    "confidence": 0.99744,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " наших",
+    "startMs": 5550,
+    "endMs": 5870,
+    "timestampMs": 5710,
+    "confidence": 0.981982
+  },
+  {
+    "text": " семей",
+    "startMs": 5870,
+    "endMs": 6190,
+    "timestampMs": 6030,
+    "confidence": 0.999421
+  },
+  {
+    "text": " тоже",
+    "startMs": 6190,
+    "endMs": 6390,
+    "timestampMs": 6290,
+    "confidence": 0.996559
+  },
+  {
+    "text": " так",
+    "startMs": 6390,
+    "endMs": 6590,
+    "timestampMs": 6490,
+    "confidence": 0.998756,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " может?",
+    "startMs": 6590,
+    "endMs": 6870,
+    "timestampMs": 6730,
+    "confidence": 0.999733,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Бесконечное",
+    "startMs": 7070,
+    "endMs": 7710,
+    "timestampMs": 7390,
+    "confidence": 0.997561
+  },
+  {
+    "text": " количество",
+    "startMs": 7710,
+    "endMs": 8030,
+    "timestampMs": 7870,
+    "confidence": 0.999537,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " семей",
+    "startMs": 8030,
+    "endMs": 8390,
+    "timestampMs": 8210,
+    "confidence": 0.998512
+  },
+  {
+    "text": " не",
+    "startMs": 8390,
+    "endMs": 8510,
+    "timestampMs": 8450,
+    "confidence": 0.996766
+  },
+  {
+    "text": " может",
+    "startMs": 8510,
+    "endMs": 8770,
+    "timestampMs": 8640,
+    "confidence": 0.999695
+  },
+  {
+    "text": " изобрести",
+    "startMs": 8770,
+    "endMs": 9150,
+    "timestampMs": 8960,
+    "confidence": 0.996297,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " первый",
+    "startMs": 9150,
+    "endMs": 9490,
+    "timestampMs": 9320,
+    "confidence": 0.78296
+  },
+  {
+    "text": " в",
+    "startMs": 9490,
+    "endMs": 9630,
+    "timestampMs": 9560,
+    "confidence": 0.996452
+  },
+  {
+    "text": " мире.",
+    "startMs": 9630,
+    "endMs": 9790,
+    "timestampMs": 9710,
+    "confidence": 0.998168,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Да,",
+    "startMs": 10550,
+    "endMs": 11190,
+    "timestampMs": 10870,
+    "confidence": 0.978535
+  },
+  {
+    "text": " получилось!",
+    "startMs": 11310,
+    "endMs": 11550,
+    "timestampMs": 11430,
+    "confidence": 0.999046,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Вы",
+    "startMs": 11970,
+    "endMs": 12090,
+    "timestampMs": 12030,
+    "confidence": 0.991861
+  },
+  {
+    "text": " представляете,",
+    "startMs": 12090,
+    "endMs": 12570,
+    "timestampMs": 12330,
+    "confidence": 0.999408
+  },
+  {
+    "text": " какие",
+    "startMs": 12650,
+    "endMs": 12770,
+    "timestampMs": 12710,
+    "confidence": 0.999127,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " возможности",
+    "startMs": 12770,
+    "endMs": 13510,
+    "timestampMs": 13140,
+    "confidence": 0.995743
+  },
+  {
+    "text": " нам",
+    "startMs": 13510,
+    "endMs": 13630,
+    "timestampMs": 13570,
+    "confidence": 0.995492
+  },
+  {
+    "text": " теперь",
+    "startMs": 13630,
+    "endMs": 13830,
+    "timestampMs": 13730,
+    "confidence": 0.994446,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " открыты?",
+    "startMs": 13830,
+    "endMs": 14470,
+    "timestampMs": 14150,
+    "confidence": 0.983077,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Сработало?",
+    "startMs": 15430,
+    "endMs": 16070,
+    "timestampMs": 15750,
+    "confidence": 0.996729,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Лучший",
+    "startMs": 16190,
+    "endMs": 16570,
+    "timestampMs": 16380,
+    "confidence": 0.922498
+  },
+  {
+    "text": " отец",
+    "startMs": 16570,
+    "endMs": 16770,
+    "timestampMs": 16670,
+    "confidence": 0.991434
+  },
+  {
+    "text": " на",
+    "startMs": 16770,
+    "endMs": 16870,
+    "timestampMs": 16820,
+    "confidence": 0.999408
+  },
+  {
+    "text": " свете!",
+    "startMs": 16870,
+    "endMs": 17190,
+    "timestampMs": 17030,
+    "confidence": 0.999726,
+    "pageBreakAfter": true
+  }
+]

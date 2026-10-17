@@ -1,0 +1,188 @@
+{
+  "sourceDriveId": "1Dd6MJli71m9fhiGdkAH62h2iG9h_uun2",
+  "sourceTitle": "Рик и Морти — сезон 7, серия 5",
+  "sourceFile": "episode.mkv",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "mirror": true,
+  "clips": [
+    {
+      "id": "01-evil-origin",
+      "kind": "moment",
+      "title": "Вот почему Морти\nстал ЗЛЫМ",
+      "regions": [
+        "origin"
+      ],
+      "segments": [
+        [
+          22.5,
+          46.7
+        ],
+        [
+          56.25,
+          86.6
+        ]
+      ]
+    },
+    {
+      "id": "02-infinity",
+      "kind": "moment",
+      "title": "Открыли портал.\nПожалели ВСЕ",
+      "regions": [
+        "infinity"
+      ],
+      "segments": [
+        [
+          181.8,
+          200.6
+        ]
+      ]
+    },
+    {
+      "id": "03-good-rick",
+      "kind": "moment",
+      "title": "«Я ХОРОШИЙ РИК»\nПродержался недолго",
+      "regions": [
+        "good-rick"
+      ],
+      "segments": [
+        [
+          548.7,
+          598.55
+        ]
+      ]
+    },
+    {
+      "id": "04-hero-step",
+      "kind": "moment",
+      "title": "Самый героический\nшаг Морти",
+      "regions": [
+        "hero"
+      ],
+      "segments": [
+        [
+          755.0,
+          784.9
+        ]
+      ]
+    },
+    {
+      "id": "05-hunt-1",
+      "kind": "story",
+      "series": "Охота на Прайма",
+      "part": 1,
+      "parts": 3,
+      "title": "Даже Злой Морти\nрешил вмешаться",
+      "regions": [
+        "hunt"
+      ],
+      "segments": [
+        [
+          316.1,
+          378.5
+        ]
+      ]
+    },
+    {
+      "id": "06-hunt-2",
+      "kind": "story",
+      "series": "Охота на Прайма",
+      "part": 2,
+      "parts": 3,
+      "title": "Он стёр её\nиз ВСЕХ вселенных",
+      "regions": [
+        "trap"
+      ],
+      "segments": [
+        [
+          477.0,
+          543.5
+        ]
+      ]
+    },
+    {
+      "id": "07-hunt-3",
+      "kind": "story",
+      "series": "Охота на Прайма",
+      "part": 3,
+      "parts": 3,
+      "title": "Из этой ловушки\nещё НИКТО не сбегал",
+      "regions": [
+        "escape"
+      ],
+      "segments": [
+        [
+          671.2,
+          744.6
+        ]
+      ]
+    },
+    {
+      "id": "08-finale-1",
+      "kind": "story",
+      "series": "Финал охоты",
+      "part": 1,
+      "parts": 3,
+      "title": "Рик нашёл того,\nкто УБИЛ его жену",
+      "regions": [
+        "battle"
+      ],
+      "segments": [
+        [
+          834.2,
+          904.0
+        ]
+      ]
+    },
+    {
+      "id": "09-finale-2",
+      "kind": "story",
+      "series": "Финал охоты",
+      "part": 2,
+      "parts": 3,
+      "title": "Прайм не заметил\nГЛАВНУЮ подмену",
+      "regions": [
+        "trick",
+        "interrogation"
+      ],
+      "segments": [
+        [
+          1015.0,
+          1060.3
+        ],
+        [
+          1064.1,
+          1082.5
+        ],
+        [
+          1089.25,
+          1109.65
+        ]
+      ]
+    },
+    {
+      "id": "10-finale-3",
+      "kind": "story",
+      "series": "Финал охоты",
+      "part": 3,
+      "parts": 3,
+      "title": "Месть сбылась.\nПочему легче не стало?",
+      "regions": [
+        "revenge",
+        "aftermath",
+        "warning"
+      ],
+      "segments": [
+        [
+          1110.0,
+          1179.2
+        ],
+        [
+          1204.2,
+          1238.6
+        ]
+      ]
+    }
+  ]
+}

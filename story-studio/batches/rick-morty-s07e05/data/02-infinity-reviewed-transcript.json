@@ -1,0 +1,313 @@
+[
+  {
+    "start": 0.17,
+    "end": 17.19,
+    "text": " Получилось! Теперь нам открыты бесконечные вселенные! Ура! А бесконечное количество наших семей тоже так может? Бесконечное количество семей не может изобрести первый в мире. Да, получилось! Вы представляете, какие возможности нам теперь открыты? Сработало? Лучший отец на свете!",
+    "words": [
+      {
+        "word": " Получилось!",
+        "start": 0.17,
+        "end": 1.35,
+        "probability": 0.7758176525433859,
+        "sourceStart": 181.97,
+        "sourceEnd": 183.15
+      },
+      {
+        "word": " Теперь",
+        "start": 1.51,
+        "end": 1.77,
+        "probability": 0.9863622188568115,
+        "sourceStart": 183.31,
+        "sourceEnd": 183.57
+      },
+      {
+        "word": " нам",
+        "start": 1.77,
+        "end": 1.95,
+        "probability": 0.9691943526268005,
+        "sourceStart": 183.57,
+        "sourceEnd": 183.75
+      },
+      {
+        "word": " открыты",
+        "start": 1.95,
+        "end": 2.33,
+        "probability": 0.9964781701564789,
+        "sourceStart": 183.75,
+        "sourceEnd": 184.13
+      },
+      {
+        "word": " бесконечные",
+        "start": 2.33,
+        "end": 2.95,
+        "probability": 0.9856301248073578,
+        "sourceStart": 184.13,
+        "sourceEnd": 184.75
+      },
+      {
+        "word": " вселенные!",
+        "start": 2.95,
+        "end": 3.65,
+        "probability": 0.9908936818440756,
+        "sourceStart": 184.75,
+        "sourceEnd": 185.45
+      },
+      {
+        "word": " Ура!",
+        "start": 3.79,
+        "end": 4.17,
+        "probability": 0.8915019333362579,
+        "sourceStart": 185.59,
+        "sourceEnd": 185.97
+      },
+      {
+        "word": " А",
+        "start": 4.57,
+        "end": 4.69,
+        "probability": 0.9820489287376404,
+        "sourceStart": 186.37,
+        "sourceEnd": 186.49
+      },
+      {
+        "word": " бесконечное",
+        "start": 4.69,
+        "end": 5.29,
+        "probability": 0.9958848357200623,
+        "sourceStart": 186.49,
+        "sourceEnd": 187.09
+      },
+      {
+        "word": " количество",
+        "start": 5.29,
+        "end": 5.55,
+        "probability": 0.9974400997161865,
+        "sourceStart": 187.09,
+        "sourceEnd": 187.35
+      },
+      {
+        "word": " наших",
+        "start": 5.55,
+        "end": 5.87,
+        "probability": 0.9819821715354919,
+        "sourceStart": 187.35,
+        "sourceEnd": 187.67
+      },
+      {
+        "word": " семей",
+        "start": 5.87,
+        "end": 6.19,
+        "probability": 0.9994213581085205,
+        "sourceStart": 187.67,
+        "sourceEnd": 187.99
+      },
+      {
+        "word": " тоже",
+        "start": 6.19,
+        "end": 6.39,
+        "probability": 0.996559202671051,
+        "sourceStart": 187.99,
+        "sourceEnd": 188.19
+      },
+      {
+        "word": " так",
+        "start": 6.39,
+        "end": 6.59,
+        "probability": 0.9987561702728271,
+        "sourceStart": 188.19,
+        "sourceEnd": 188.39
+      },
+      {
+        "word": " может?",
+        "start": 6.59,
+        "end": 6.87,
+        "probability": 0.999733030796051,
+        "sourceStart": 188.39,
+        "sourceEnd": 188.67
+      },
+      {
+        "word": " Бесконечное",
+        "start": 7.07,
+        "end": 7.71,
+        "probability": 0.9975609540939331,
+        "sourceStart": 188.87,
+        "sourceEnd": 189.51
+      },
+      {
+        "word": " количество",
+        "start": 7.71,
+        "end": 8.03,
+        "probability": 0.9995369911193848,
+        "sourceStart": 189.51,
+        "sourceEnd": 189.83
+      },
+      {
+        "word": " семей",
+        "start": 8.03,
+        "end": 8.39,
+        "probability": 0.9985118508338928,
+        "sourceStart": 189.83,
+        "sourceEnd": 190.19
+      },
+      {
+        "word": " не",
+        "start": 8.39,
+        "end": 8.51,
+        "probability": 0.9967663288116455,
+        "sourceStart": 190.19,
+        "sourceEnd": 190.31
+      },
+      {
+        "word": " может",
+        "start": 8.51,
+        "end": 8.77,
+        "probability": 0.9996945858001709,
+        "sourceStart": 190.31,
+        "sourceEnd": 190.57
+      },
+      {
+        "word": " изобрести",
+        "start": 8.77,
+        "end": 9.15,
+        "probability": 0.9962967236836752,
+        "sourceStart": 190.57,
+        "sourceEnd": 190.95
+      },
+      {
+        "word": " первый",
+        "start": 9.15,
+        "end": 9.49,
+        "probability": 0.7829603552818298,
+        "sourceStart": 190.95,
+        "sourceEnd": 191.29
+      },
+      {
+        "word": " в",
+        "start": 9.49,
+        "end": 9.63,
+        "probability": 0.9964520931243896,
+        "sourceStart": 191.29,
+        "sourceEnd": 191.43
+      },
+      {
+        "word": " мире.",
+        "start": 9.63,
+        "end": 9.79,
+        "probability": 0.9981681108474731,
+        "sourceStart": 191.43,
+        "sourceEnd": 191.59
+      },
+      {
+        "word": " Да,",
+        "start": 10.55,
+        "end": 11.19,
+        "probability": 0.9785348176956177,
+        "sourceStart": 192.35,
+        "sourceEnd": 192.99
+      },
+      {
+        "word": " получилось!",
+        "start": 11.31,
+        "end": 11.55,
+        "probability": 0.9990461468696594,
+        "sourceStart": 193.11,
+        "sourceEnd": 193.35
+      },
+      {
+        "word": " Вы",
+        "start": 11.97,
+        "end": 12.09,
+        "probability": 0.9918609261512756,
+        "sourceStart": 193.77,
+        "sourceEnd": 193.89
+      },
+      {
+        "word": " представляете,",
+        "start": 12.09,
+        "end": 12.57,
+        "probability": 0.9994075000286102,
+        "sourceStart": 193.89,
+        "sourceEnd": 194.37
+      },
+      {
+        "word": " какие",
+        "start": 12.65,
+        "end": 12.77,
+        "probability": 0.9991267323493958,
+        "sourceStart": 194.45,
+        "sourceEnd": 194.57
+      },
+      {
+        "word": " возможности",
+        "start": 12.77,
+        "end": 13.51,
+        "probability": 0.995743453502655,
+        "sourceStart": 194.57,
+        "sourceEnd": 195.31
+      },
+      {
+        "word": " нам",
+        "start": 13.51,
+        "end": 13.63,
+        "probability": 0.9954922199249268,
+        "sourceStart": 195.31,
+        "sourceEnd": 195.43
+      },
+      {
+        "word": " теперь",
+        "start": 13.63,
+        "end": 13.83,
+        "probability": 0.9944463968276978,
+        "sourceStart": 195.43,
+        "sourceEnd": 195.63
+      },
+      {
+        "word": " открыты?",
+        "start": 13.83,
+        "end": 14.47,
+        "probability": 0.9830766320228577,
+        "sourceStart": 195.63,
+        "sourceEnd": 196.27
+      },
+      {
+        "word": " Сработало?",
+        "start": 15.43,
+        "end": 16.07,
+        "probability": 0.9967294534047445,
+        "sourceStart": 197.23,
+        "sourceEnd": 197.87
+      },
+      {
+        "word": " Лучший",
+        "start": 16.19,
+        "end": 16.57,
+        "probability": 0.9224983851114908,
+        "sourceStart": 197.99,
+        "sourceEnd": 198.37
+      },
+      {
+        "word": " отец",
+        "start": 16.57,
+        "end": 16.77,
+        "probability": 0.9914337694644928,
+        "sourceStart": 198.37,
+        "sourceEnd": 198.57
+      },
+      {
+        "word": " на",
+        "start": 16.77,
+        "end": 16.87,
+        "probability": 0.9994076490402222,
+        "sourceStart": 198.57,
+        "sourceEnd": 198.67
+      },
+      {
+        "word": " свете!",
+        "start": 16.87,
+        "end": 17.19,
+        "probability": 0.9997260272502899,
+        "sourceStart": 198.67,
+        "sourceEnd": 198.99
+      }
+    ]
+  }
+]

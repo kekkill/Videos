@@ -1,0 +1,30 @@
+{
+  "id": "10-finale-3",
+  "kind": "story",
+  "series": "Финал охоты",
+  "part": 3,
+  "parts": 3,
+  "title": "Месть сбылась.\nПочему легче не стало?",
+  "regions": [
+    "revenge",
+    "aftermath",
+    "warning"
+  ],
+  "segments": [
+    [
+      1110.0,
+      1179.2
+    ],
+    [
+      1204.2,
+      1238.6
+    ]
+  ],
+  "file": "10-finale-3.mp4",
+  "frames": 3108,
+  "duration": 103.6,
+  "videoDuration": 103.6,
+  "bytes": 34740407,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}
