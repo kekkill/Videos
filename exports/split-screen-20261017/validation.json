@@ -1,0 +1,69 @@
+{
+  "passed": true,
+  "filename": "video-game-split-50-50.mp4",
+  "sizeBytes": 47169193,
+  "sha256": "90fc51aabbaa204c2405828a8ab193338fd376cc0cf8fdaeb1ca14b5f45890c1",
+  "width": 1080,
+  "height": 1920,
+  "fps": "60/1",
+  "frames": 3885,
+  "duration": 64.806893,
+  "topRegion": [
+    0,
+    0,
+    1080,
+    960
+  ],
+  "bottomRegion": [
+    0,
+    960,
+    1080,
+    960
+  ],
+  "audio": {
+    "streams": 1,
+    "codec": "aac",
+    "packetCount": 2791,
+    "allSourcePacketsIdentical": true,
+    "originalTimestampsPreserved": true,
+    "gameplayAudioIncluded": false
+  },
+  "fullDecodePassed": true,
+  "browser": {
+    "passed": true,
+    "duration": 64.806893,
+    "seekStates": [
+      {
+        "time": 0.1,
+        "width": 1080,
+        "height": 1920,
+        "error": null
+      },
+      {
+        "time": 19.9,
+        "width": 1080,
+        "height": 1920,
+        "error": null
+      },
+      {
+        "time": 20.1,
+        "width": 1080,
+        "height": 1920,
+        "error": null
+      },
+      {
+        "time": 60.1,
+        "width": 1080,
+        "height": 1920,
+        "error": null
+      },
+      {
+        "time": 64.656893,
+        "width": 1080,
+        "height": 1920,
+        "error": null
+      }
+    ],
+    "playbackAdvanced": true
+  }
+}

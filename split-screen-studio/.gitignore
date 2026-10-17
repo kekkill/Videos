@@ -1,0 +1,5 @@
+*.mp4
+*.log
+composition.ffscript
+validation.json
+__pycache__/
