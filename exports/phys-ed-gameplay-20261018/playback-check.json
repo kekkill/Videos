@@ -1,0 +1,75 @@
+{
+  "validation": "passed",
+  "clips": [
+    {
+      "file": "phys-ed-gameplay-01-rest.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 29.166667,
+      "error": null
+    },
+    {
+      "file": "phys-ed-gameplay-02-pushups.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 10.25,
+      "error": null
+    },
+    {
+      "file": "phys-ed-gameplay-03-rope.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 35.583333,
+      "error": null
+    },
+    {
+      "file": "phys-ed-gameplay-04-volleyball.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 34.333333,
+      "error": null
+    },
+    {
+      "file": "phys-ed-gameplay-05-classmate-1.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 28,
+      "error": null
+    },
+    {
+      "file": "phys-ed-gameplay-06-classmate-2.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 49.75,
+      "error": null
+    },
+    {
+      "file": "phys-ed-gameplay-07-army-1.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 21.333333,
+      "error": null
+    },
+    {
+      "file": "phys-ed-gameplay-08-army-2.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 48.416667,
+      "error": null
+    },
+    {
+      "file": "phys-ed-gameplay-09-breath.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 38.833333,
+      "error": null
+    },
+    {
+      "file": "phys-ed-gameplay-10-after-thirty.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 23.05,
+      "error": null
+    }
+  ]
+}

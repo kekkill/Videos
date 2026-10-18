@@ -1,0 +1,98 @@
+{
+  "downloads": [
+    {
+      "file": "games/game-01.mp4",
+      "driveId": "1GYfFP9vFO4rtthxnlW6Lx87VN5yyHfyR",
+      "sha256": "03a56d74ab14abb51fce8826c0129d787504927b7bcd7083788353d248c8168c",
+      "bytes": 25013267
+    },
+    {
+      "file": "games/game-02.mp4",
+      "driveId": "1FV3bd0FHKfiXBiGjAuwMMflBzccl8qyt",
+      "sha256": "a98b99573b0446121786da2879bc3c6aa3e4eea8b82636a4f9847cc7b5d77909",
+      "bytes": 24284670
+    },
+    {
+      "file": "games/game-03.mp4",
+      "driveId": "1oOJII_NMVupqTUDx1t-uPsf3BG_I9__W",
+      "sha256": "e571ffe0e0ee5bc92249cc9cc3638ea334bb3077c08edcbc01f9faf20cd6a475",
+      "bytes": 17470106
+    },
+    {
+      "file": "games/game-04.mp4",
+      "driveId": "1C_0xpTcBDK05UEtBQEr0FeMCdOuvphZW",
+      "sha256": "f6a4d9e7622a3780a305ef67859a2ae75d46b1ec42167743cd7ce3987705bdee",
+      "bytes": 24983473
+    },
+    {
+      "file": "games/game-05.mp4",
+      "driveId": "1GnN-oEt8z1WAai7gnBWhmNEwQUTbP8jr",
+      "sha256": "a1212167cbc75f3eaf62b9c85ce621ca4c091fab790b588dda26af228c165e10",
+      "bytes": 20982405
+    },
+    {
+      "file": "games/game-06.mp4",
+      "driveId": "1V5OfQvR3OLG0YASSRI-AoT3bBgwMU1YP",
+      "sha256": "4130910a70f32b41ec2d0f4e49d306aa8ddca18a6d1fbe82f2b83661d9c11883",
+      "bytes": 22552373
+    },
+    {
+      "file": "media/episode.mp4",
+      "driveId": "1-uSFG-l3_avgWk2pgZCfTxzkYHA4gibc",
+      "sha256": "add609aa33ca4bd6600b8260e789600d6e585ceeb2573b48d6c03363cad6b724",
+      "bytes": 111934153
+    }
+  ],
+  "prepared": [
+    {
+      "file": "01-rest.mp4",
+      "sha256": "422eafe03b902a6c7767588a45788e55cb0ebf49e337d1fce8481c704fc2507c",
+      "bytes": 7212525
+    },
+    {
+      "file": "02-pushups.mp4",
+      "sha256": "70bf6075ae5c5380b25fa8d1a795fdaf6fd3e559196c7de287583e9143bd5997",
+      "bytes": 2746795
+    },
+    {
+      "file": "03-rope.mp4",
+      "sha256": "d863fb45021c97536c50671d6394e9f2ef6a930813a591cd4eb8726166eac0b9",
+      "bytes": 7370220
+    },
+    {
+      "file": "04-volleyball.mp4",
+      "sha256": "e22bd5c2910bee93e8c003541251cb05e6a50b77b4e17f95524fd309aa8ab923",
+      "bytes": 9396323
+    },
+    {
+      "file": "05-classmate-1.mp4",
+      "sha256": "0e58ef4b92a631d9b3ad7cb87d2dcafbaf05d8b2093bf2ab1813fe80b4a5f74c",
+      "bytes": 7660292
+    },
+    {
+      "file": "06-classmate-2.mp4",
+      "sha256": "5c48043311d41e52d0b50b2256fdbaea258cfed57185510507e49460668148d5",
+      "bytes": 18058969
+    },
+    {
+      "file": "07-army-1.mp4",
+      "sha256": "bea75978026f302e4e42b34246922f039772ffe365de141d4c55353669d3505b",
+      "bytes": 4143677
+    },
+    {
+      "file": "08-army-2.mp4",
+      "sha256": "a74924c6b7135e54a89483500093237333d3cfa9f8e2e52c4bb3e400a79a757b",
+      "bytes": 11647023
+    },
+    {
+      "file": "09-breath.mp4",
+      "sha256": "f074ba12ed1f2525efabce3850ab673be1845c3d3173a8d3a19eb2acac05746e",
+      "bytes": 7900709
+    },
+    {
+      "file": "10-after-thirty.mp4",
+      "sha256": "6763a0bf362abf34363e358c1e9eec258a3e43b9b50cef874e274af6674a4354",
+      "bytes": 4559015
+    }
+  ]
+}

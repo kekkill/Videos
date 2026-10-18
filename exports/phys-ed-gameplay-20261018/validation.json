@@ -1,0 +1,377 @@
+{
+  "validation": "passed",
+  "clips": [
+    {
+      "id": "01-rest",
+      "file": "phys-ed-gameplay-01-rest.mp4",
+      "validation": "passed",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "frames": 1750,
+      "duration": 29.166667,
+      "sourceVideoDuration": 29.166666666666668,
+      "halfScreenDimensions": [
+        1080,
+        960
+      ],
+      "audioPacketsCopiedExactly": 1369,
+      "gameplayAudioPresent": false,
+      "captionFramesChecked": 1750,
+      "captionWords": 73,
+      "captionPages": 27,
+      "captionInkMeanRgbDifference": 5.7096,
+      "headerInkMeanRgbDifference": 2.4154,
+      "mainPictureMeanRgbDifference": 0.3064,
+      "gamePictureMeanRgbDifferences": [
+        0.7342,
+        0.7199,
+        0.6363
+      ],
+      "fullDecodePassed": true,
+      "additionalReflection": false,
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "sha256": "76357f371fbf3b413aecbc2e3aad8ca8a13408a0319aa71b719af12418cb84c0",
+      "bytes": 19876422
+    },
+    {
+      "id": "02-pushups",
+      "file": "phys-ed-gameplay-02-pushups.mp4",
+      "validation": "passed",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "frames": 615,
+      "duration": 10.25,
+      "sourceVideoDuration": 10.25,
+      "halfScreenDimensions": [
+        1080,
+        960
+      ],
+      "audioPacketsCopiedExactly": 482,
+      "gameplayAudioPresent": false,
+      "captionFramesChecked": 615,
+      "captionWords": 31,
+      "captionPages": 10,
+      "captionInkMeanRgbDifference": 5.5498,
+      "headerInkMeanRgbDifference": 2.6325,
+      "mainPictureMeanRgbDifference": 0.453,
+      "gamePictureMeanRgbDifferences": [
+        0.233,
+        0.3156,
+        0.3359
+      ],
+      "fullDecodePassed": true,
+      "additionalReflection": false,
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "sha256": "37105ca2495336704643c9d6844d53eaaa09abdcfc5aac50209f928876e6b24d",
+      "bytes": 5492848
+    },
+    {
+      "id": "03-rope",
+      "file": "phys-ed-gameplay-03-rope.mp4",
+      "validation": "passed",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "frames": 2135,
+      "duration": 35.583333,
+      "sourceVideoDuration": 35.583333333333336,
+      "halfScreenDimensions": [
+        1080,
+        960
+      ],
+      "audioPacketsCopiedExactly": 1669,
+      "gameplayAudioPresent": false,
+      "captionFramesChecked": 2135,
+      "captionWords": 70,
+      "captionPages": 26,
+      "captionInkMeanRgbDifference": 5.771,
+      "headerInkMeanRgbDifference": 2.3783,
+      "mainPictureMeanRgbDifference": 0.5567,
+      "gamePictureMeanRgbDifferences": [
+        0.6712,
+        0.4741,
+        0.2904
+      ],
+      "fullDecodePassed": true,
+      "additionalReflection": false,
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "sha256": "b180a5ad9ae9cb597b7246ad66b5f5cfb24a19403cac7a309ca684faf8759537",
+      "bytes": 14807745
+    },
+    {
+      "id": "04-volleyball",
+      "file": "phys-ed-gameplay-04-volleyball.mp4",
+      "validation": "passed",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "frames": 2060,
+      "duration": 34.333333,
+      "sourceVideoDuration": 34.333333333333336,
+      "halfScreenDimensions": [
+        1080,
+        960
+      ],
+      "audioPacketsCopiedExactly": 1611,
+      "gameplayAudioPresent": false,
+      "captionFramesChecked": 2060,
+      "captionWords": 88,
+      "captionPages": 28,
+      "captionInkMeanRgbDifference": 5.6854,
+      "headerInkMeanRgbDifference": 2.4902,
+      "mainPictureMeanRgbDifference": 0.6113,
+      "gamePictureMeanRgbDifferences": [
+        0.5822,
+        0.8573,
+        0.5007
+      ],
+      "fullDecodePassed": true,
+      "additionalReflection": false,
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "sha256": "0e11050e978c96fbabc158368dc64714fbaf3e28899f4d3081a2f9f73fb3c3ea",
+      "bytes": 20113419
+    },
+    {
+      "id": "05-classmate-1",
+      "file": "phys-ed-gameplay-05-classmate-1.mp4",
+      "validation": "passed",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "frames": 1680,
+      "duration": 28.0,
+      "sourceVideoDuration": 28.0,
+      "halfScreenDimensions": [
+        1080,
+        960
+      ],
+      "audioPacketsCopiedExactly": 1314,
+      "gameplayAudioPresent": false,
+      "captionFramesChecked": 1680,
+      "captionWords": 68,
+      "captionPages": 24,
+      "captionInkMeanRgbDifference": 5.8287,
+      "headerInkMeanRgbDifference": 2.9719,
+      "mainPictureMeanRgbDifference": 0.5187,
+      "gamePictureMeanRgbDifferences": [
+        0.4694,
+        0.4471,
+        0.3168
+      ],
+      "fullDecodePassed": true,
+      "additionalReflection": false,
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "sha256": "0016d3c36374b800fa839e2193bcc06c7fd85809932c6e1a29712c401690a2ac",
+      "bytes": 13799246
+    },
+    {
+      "id": "06-classmate-2",
+      "file": "phys-ed-gameplay-06-classmate-2.mp4",
+      "validation": "passed",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "frames": 2985,
+      "duration": 49.75,
+      "sourceVideoDuration": 49.75,
+      "halfScreenDimensions": [
+        1080,
+        960
+      ],
+      "audioPacketsCopiedExactly": 2334,
+      "gameplayAudioPresent": false,
+      "captionFramesChecked": 2985,
+      "captionWords": 111,
+      "captionPages": 34,
+      "captionInkMeanRgbDifference": 5.553,
+      "headerInkMeanRgbDifference": 3.1086,
+      "mainPictureMeanRgbDifference": 0.4742,
+      "gamePictureMeanRgbDifferences": [
+        0.4246,
+        0.5621,
+        0.4203,
+        0.4766,
+        0.6785,
+        0.5088
+      ],
+      "fullDecodePassed": true,
+      "additionalReflection": false,
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "sha256": "de43dc4ed7f8446049862b64714795f4ec3ef48d113168de7f2c0967f08a0b52",
+      "bytes": 28405021
+    },
+    {
+      "id": "07-army-1",
+      "file": "phys-ed-gameplay-07-army-1.mp4",
+      "validation": "passed",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "frames": 1280,
+      "duration": 21.333333,
+      "sourceVideoDuration": 21.333333333333332,
+      "halfScreenDimensions": [
+        1080,
+        960
+      ],
+      "audioPacketsCopiedExactly": 1001,
+      "gameplayAudioPresent": false,
+      "captionFramesChecked": 1280,
+      "captionWords": 48,
+      "captionPages": 17,
+      "captionInkMeanRgbDifference": 5.6805,
+      "headerInkMeanRgbDifference": 2.6604,
+      "mainPictureMeanRgbDifference": 0.7407,
+      "gamePictureMeanRgbDifferences": [
+        0.7,
+        0.7847,
+        0.6373
+      ],
+      "fullDecodePassed": true,
+      "additionalReflection": false,
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "sha256": "859ab249ebe65d063f5b7ecedf833f32ecd6ed949b6bffa395fc47371fd5f08e",
+      "bytes": 13217219
+    },
+    {
+      "id": "08-army-2",
+      "file": "phys-ed-gameplay-08-army-2.mp4",
+      "validation": "passed",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "frames": 2905,
+      "duration": 48.416667,
+      "sourceVideoDuration": 48.416666666666664,
+      "halfScreenDimensions": [
+        1080,
+        960
+      ],
+      "audioPacketsCopiedExactly": 2271,
+      "gameplayAudioPresent": false,
+      "captionFramesChecked": 2905,
+      "captionWords": 105,
+      "captionPages": 35,
+      "captionInkMeanRgbDifference": 5.5724,
+      "headerInkMeanRgbDifference": 2.8183,
+      "mainPictureMeanRgbDifference": 0.5765,
+      "gamePictureMeanRgbDifferences": [
+        0.5711,
+        0.5611,
+        0.4671,
+        0.4736,
+        0.8391,
+        0.675
+      ],
+      "fullDecodePassed": true,
+      "additionalReflection": false,
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "sha256": "cf082eb87238fd031dc9883ff356efef6003bb17f5be568a5657b4011b0f556c",
+      "bytes": 24652764
+    },
+    {
+      "id": "09-breath",
+      "file": "phys-ed-gameplay-09-breath.mp4",
+      "validation": "passed",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "frames": 2330,
+      "duration": 38.833333,
+      "sourceVideoDuration": 38.833333333333336,
+      "halfScreenDimensions": [
+        1080,
+        960
+      ],
+      "audioPacketsCopiedExactly": 1822,
+      "gameplayAudioPresent": false,
+      "captionFramesChecked": 2330,
+      "captionWords": 96,
+      "captionPages": 30,
+      "captionInkMeanRgbDifference": 5.6934,
+      "headerInkMeanRgbDifference": 2.7366,
+      "mainPictureMeanRgbDifference": 0.616,
+      "gamePictureMeanRgbDifferences": [
+        0.6022,
+        0.5749,
+        0.5569,
+        0.5076,
+        0.3719,
+        0.3893
+      ],
+      "fullDecodePassed": true,
+      "additionalReflection": false,
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "sha256": "424937bf605b0ab3d8775bac0d77527beb7312943b24f542938a47e00f4e5dd1",
+      "bytes": 20491503
+    },
+    {
+      "id": "10-after-thirty",
+      "file": "phys-ed-gameplay-10-after-thirty.mp4",
+      "validation": "passed",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "frames": 1383,
+      "duration": 23.05,
+      "sourceVideoDuration": 23.041666666666668,
+      "halfScreenDimensions": [
+        1080,
+        960
+      ],
+      "audioPacketsCopiedExactly": 1080,
+      "gameplayAudioPresent": false,
+      "captionFramesChecked": 1383,
+      "captionWords": 61,
+      "captionPages": 19,
+      "captionInkMeanRgbDifference": 5.6515,
+      "headerInkMeanRgbDifference": 3.2659,
+      "mainPictureMeanRgbDifference": 0.4737,
+      "gamePictureMeanRgbDifferences": [
+        0.2658,
+        0.4407,
+        0.2392,
+        0.4858,
+        0.4272,
+        0.4224
+      ],
+      "fullDecodePassed": true,
+      "additionalReflection": false,
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "sha256": "7245ffb26775f9de654876b849018dc49a9d07a3b01e8ed57dc6603b6afd5c93",
+      "bytes": 11968536
+    }
+  ]
+}

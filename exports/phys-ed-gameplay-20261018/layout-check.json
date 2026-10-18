@@ -1,0 +1,199 @@
+{
+  "title": "Split-01 / studio - Remotion Studio",
+  "fontLoaded": true,
+  "validation": "passed",
+  "clipsChecked": 10,
+  "layout": [
+    {
+      "id": "01-rest",
+      "titleWidths": [
+        587.1610107421875,
+        316.320556640625
+      ],
+      "captionPages": 27,
+      "widestPage": {
+        "text": "ПОДНЯТИЕМ ОГРОМНЫХ",
+        "width": 734.9198974609375
+      },
+      "titleFits": true,
+      "captionsFit": true,
+      "scaledTitleWidths": [
+        469.72880859375005,
+        253.05644531250002
+      ],
+      "scaledCaptionWidth": 661.4279077148437
+    },
+    {
+      "id": "02-pushups",
+      "titleWidths": [
+        590.8209838867188,
+        590.0890502929688
+      ],
+      "captionPages": 10,
+      "widestPage": {
+        "text": "ОТЖИМАНИЯ ТЫ ПОЛУЧИШЬ",
+        "width": 738.541455078125
+      },
+      "titleFits": true,
+      "captionsFit": true,
+      "scaledTitleWidths": [
+        472.65678710937505,
+        472.071240234375
+      ],
+      "scaledCaptionWidth": 664.6873095703124
+    },
+    {
+      "id": "03-rope",
+      "titleWidths": [
+        501.7608642578125,
+        632.3011474609375
+      ],
+      "captionPages": 26,
+      "widestPage": {
+        "text": "АНДЖУМАНИЯ МНЕ ХОТЬ",
+        "width": 755.09990234375
+      },
+      "titleFits": true,
+      "captionsFit": true,
+      "scaledTitleWidths": [
+        401.40869140625,
+        505.84091796875003
+      ],
+      "scaledCaptionWidth": 679.5899121093751
+    },
+    {
+      "id": "04-volleyball",
+      "titleWidths": [
+        395.315673828125,
+        796.3914184570312
+      ],
+      "captionPages": 28,
+      "widestPage": {
+        "text": "ЛИМИТЫ ЭТОЙ ВСЕЛЕННОЙ.",
+        "width": 709.5613647460938
+      },
+      "titleFits": true,
+      "captionsFit": true,
+      "scaledTitleWidths": [
+        316.25253906250003,
+        637.1131347656251
+      ],
+      "scaledCaptionWidth": 638.6052282714844
+    },
+    {
+      "id": "05-classmate-1",
+      "titleWidths": [
+        321.810546875,
+        494.745849609375
+      ],
+      "captionPages": 24,
+      "widestPage": {
+        "text": "ВЫДАЮЩИЕСЯ УСПЕХИ В",
+        "width": 753.9799072265625
+      },
+      "titleFits": true,
+      "captionsFit": true,
+      "scaledTitleWidths": [
+        257.4484375,
+        395.79667968750005
+      ],
+      "scaledCaptionWidth": 678.5819165039063
+    },
+    {
+      "id": "06-classmate-2",
+      "titleWidths": [
+        672.5612182617188,
+        594.7860107421875
+      ],
+      "captionPages": 34,
+      "widestPage": {
+        "text": "ВОЗЛЕ СКАМЕЙКИ МЕНЯ",
+        "width": 722.899951171875
+      },
+      "titleFits": true,
+      "captionsFit": true,
+      "scaledTitleWidths": [
+        538.048974609375,
+        475.82880859375
+      ],
+      "scaledCaptionWidth": 650.6099560546876
+    },
+    {
+      "id": "07-army-1",
+      "titleWidths": [
+        455.40081787109375,
+        782.361328125
+      ],
+      "captionPages": 17,
+      "widestPage": {
+        "text": "РАЗГОВАРИВАТЬ ТОГДА",
+        "width": 715.0599243164063
+      },
+      "titleFits": true,
+      "captionsFit": true,
+      "scaledTitleWidths": [
+        364.32065429687503,
+        625.8890625
+      ],
+      "scaledCaptionWidth": 643.5539318847657
+    },
+    {
+      "id": "08-army-2",
+      "titleWidths": [
+        668.59619140625,
+        476.44580078125
+      ],
+      "captionPages": 35,
+      "widestPage": {
+        "text": "НОВЫЙ ДЕНЬ С НОВЫМИ",
+        "width": 742.7798950195313
+      },
+      "titleFits": true,
+      "captionsFit": true,
+      "scaledTitleWidths": [
+        534.876953125,
+        381.156640625
+      ],
+      "scaledCaptionWidth": 668.5019055175782
+    },
+    {
+      "id": "09-breath",
+      "titleWidths": [
+        382.8106689453125,
+        466.0758056640625
+      ],
+      "captionPages": 30,
+      "widestPage": {
+        "text": "ДЫХАЛКА ВСЕГДА БЫЛА",
+        "width": 740.5399658203125
+      },
+      "titleFits": true,
+      "captionsFit": true,
+      "scaledTitleWidths": [
+        306.24853515625,
+        372.86064453125005
+      ],
+      "scaledCaptionWidth": 666.4859692382813
+    },
+    {
+      "id": "10-after-thirty",
+      "titleWidths": [
+        510.910888671875,
+        638.401123046875
+      ],
+      "captionPages": 19,
+      "widestPage": {
+        "text": "ЧТОБЫ ПОДДЕРЖИВАТЬ",
+        "width": 729.319921875
+      },
+      "titleFits": true,
+      "captionsFit": true,
+      "scaledTitleWidths": [
+        408.7287109375,
+        510.7208984375
+      ],
+      "scaledCaptionWidth": 656.3879296875
+    }
+  ],
+  "errors": []
+}
