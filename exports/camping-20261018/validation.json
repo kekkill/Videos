@@ -1,0 +1,109 @@
+{
+  "validation": "passed",
+  "width": 1080,
+  "height": 1920,
+  "frames": 3600,
+  "fps": 60,
+  "durationSeconds": 60.01,
+  "bytes": 67214548,
+  "audioPacketsCopiedExactly": 2814,
+  "frameTimestampsPreserved": true,
+  "allFramesDecodedAndOverlayVerified": 3600,
+  "opaqueOverlayFrames": 3568,
+  "originalBlackEndingFramesWithoutOverlay": 32,
+  "maximumMeanOverlayRgbDifference": 2.4414661601238214,
+  "captionWords": 185,
+  "captionPages": 81,
+  "sourceEnglishTextCoverage": {
+    "samples": 240,
+    "recognizedWords": 109,
+    "boundsIncludingOutline": [
+      215,
+      969,
+      830,
+      1134
+    ],
+    "opaqueMask": [
+      128,
+      964,
+      952,
+      1154
+    ]
+  },
+  "pictureChecks": [
+    {
+      "frame": 0,
+      "meanRgbDifferenceOutsideOverlay": [
+        0.412229143936461,
+        0.41942508710801396
+      ]
+    },
+    {
+      "frame": 240,
+      "meanRgbDifferenceOutsideOverlay": [
+        1.297891810086932,
+        0.6935036778939218
+      ]
+    },
+    {
+      "frame": 645,
+      "meanRgbDifferenceOutsideOverlay": [
+        0.9870320510564413,
+        0.35095238095238096
+      ]
+    },
+    {
+      "frame": 1350,
+      "meanRgbDifferenceOutsideOverlay": [
+        0.8559374230105937,
+        0.5929210220673635
+      ]
+    },
+    {
+      "frame": 1800,
+      "meanRgbDifferenceOutsideOverlay": [
+        0.7257226738934056,
+        0.1968854045683314
+      ]
+    },
+    {
+      "frame": 2430,
+      "meanRgbDifferenceOutsideOverlay": [
+        1.2722521381057967,
+        0.7332404181184669
+      ]
+    },
+    {
+      "frame": 2940,
+      "meanRgbDifferenceOutsideOverlay": [
+        1.1992339187461138,
+        1.7472725512969416
+      ]
+    },
+    {
+      "frame": 3330,
+      "meanRgbDifferenceOutsideOverlay": [
+        0.9561101725735872,
+        0.604237320944638
+      ]
+    },
+    {
+      "frame": 3599,
+      "meanRgbDifferenceOutsideOverlay": [
+        2.6396367859782494e-05,
+        0.0
+      ]
+    }
+  ],
+  "videoEncoding": {
+    "codec": "H.264",
+    "crf": 18,
+    "preset": "fast"
+  },
+  "sourceScaled": false,
+  "sourceCropped": false,
+  "sourceMirrored": false,
+  "newBannerAdded": false,
+  "originalBannerPreserved": true,
+  "sha256": "987041ca6c35cde7762e995559d761bc8a9026f2836610b785f6fa0b9468c163"
+}
