@@ -1,0 +1,19 @@
+{
+  "id": "02-pushups",
+  "kind": "moment",
+  "title": "Два отжимания:\nШКОЛА vs АРМИЯ",
+  "segments": [
+    [
+      46.583333333333336,
+      56.833333333333336
+    ]
+  ],
+  "selectionReason": "Начало с конкретной темы заголовка, полная шутка и развязка без общего вступления.",
+  "file": "02-pushups.mp4",
+  "frames": 246,
+  "duration": 10.25,
+  "videoDuration": 10.25,
+  "bytes": 2746795,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

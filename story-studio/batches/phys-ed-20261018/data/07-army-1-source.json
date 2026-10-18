@@ -1,0 +1,22 @@
+{
+  "id": "07-army-1",
+  "kind": "story",
+  "title": "Не отжался?\nЗНАЧИТ ПОДТЯГИВАЙСЯ",
+  "segments": [
+    [
+      312.875,
+      334.2083333333333
+    ]
+  ],
+  "selectionReason": "Начало с конкретной темы заголовка, полная шутка и развязка без общего вступления.",
+  "series": "Армейская физра",
+  "part": 1,
+  "parts": 2,
+  "file": "07-army-1.mp4",
+  "frames": 512,
+  "duration": 21.333333,
+  "videoDuration": 21.333333,
+  "bytes": 4143677,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

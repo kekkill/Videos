@@ -1,0 +1,22 @@
+{
+  "id": "05-classmate-1",
+  "kind": "story",
+  "title": "Он играл\nБЕЗ ФУТБОЛКИ",
+  "segments": [
+    [
+      217.83333333333334,
+      245.83333333333334
+    ]
+  ],
+  "selectionReason": "Законченная сцена с отдельной шуткой или сюжетным поворотом.",
+  "series": "Физра в лицее",
+  "part": 1,
+  "parts": 2,
+  "file": "05-classmate-1.mp4",
+  "frames": 672,
+  "duration": 28.0,
+  "videoDuration": 28.0,
+  "bytes": 7660292,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

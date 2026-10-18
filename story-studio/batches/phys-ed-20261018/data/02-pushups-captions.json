@@ -1,0 +1,229 @@
+[
+  {
+    "text": " Но",
+    "startMs": 107,
+    "endMs": 637,
+    "timestampMs": 372,
+    "confidence": 0.853204
+  },
+  {
+    "text": " по-настоящему",
+    "startMs": 637,
+    "endMs": 1497,
+    "timestampMs": 1067,
+    "confidence": 0.962768
+  },
+  {
+    "text": " это",
+    "startMs": 1497,
+    "endMs": 1637,
+    "timestampMs": 1567,
+    "confidence": 0.952611,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " стало",
+    "startMs": 1637,
+    "endMs": 1917,
+    "timestampMs": 1777,
+    "confidence": 0.99738
+  },
+  {
+    "text": " проблемой",
+    "startMs": 1917,
+    "endMs": 2397,
+    "timestampMs": 2157,
+    "confidence": 0.999775
+  },
+  {
+    "text": " в",
+    "startMs": 2397,
+    "endMs": 2597,
+    "timestampMs": 2497,
+    "confidence": 0.997207,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " армии,",
+    "startMs": 2597,
+    "endMs": 2997,
+    "timestampMs": 2797,
+    "confidence": 0.996738
+  },
+  {
+    "text": " так",
+    "startMs": 3057,
+    "endMs": 3177,
+    "timestampMs": 3117,
+    "confidence": 0.994458
+  },
+  {
+    "text": " как",
+    "startMs": 3177,
+    "endMs": 3317,
+    "timestampMs": 3247,
+    "confidence": 0.999738
+  },
+  {
+    "text": " в",
+    "startMs": 3317,
+    "endMs": 3437,
+    "timestampMs": 3377,
+    "confidence": 0.999709,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " школе",
+    "startMs": 3437,
+    "endMs": 3777,
+    "timestampMs": 3607,
+    "confidence": 0.999538
+  },
+  {
+    "text": " за",
+    "startMs": 3777,
+    "endMs": 3957,
+    "timestampMs": 3867,
+    "confidence": 0.994193
+  },
+  {
+    "text": " два",
+    "startMs": 3957,
+    "endMs": 4097,
+    "timestampMs": 4027,
+    "confidence": 0.782296
+  },
+  {
+    "text": " отжимания",
+    "startMs": 4097,
+    "endMs": 4537,
+    "timestampMs": 4317,
+    "confidence": 0.994154,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " ты",
+    "startMs": 4537,
+    "endMs": 4717,
+    "timestampMs": 4627,
+    "confidence": 0.994722
+  },
+  {
+    "text": " получишь",
+    "startMs": 4717,
+    "endMs": 5177,
+    "timestampMs": 4947,
+    "confidence": 0.998438
+  },
+  {
+    "text": " тройку,",
+    "startMs": 5177,
+    "endMs": 5577,
+    "timestampMs": 5377,
+    "confidence": 0.995847
+  },
+  {
+    "text": " а",
+    "startMs": 5677,
+    "endMs": 5757,
+    "timestampMs": 5717,
+    "confidence": 0.999178,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " в",
+    "startMs": 5757,
+    "endMs": 5857,
+    "timestampMs": 5807,
+    "confidence": 0.999965
+  },
+  {
+    "text": " армии",
+    "startMs": 5857,
+    "endMs": 6097,
+    "timestampMs": 5977,
+    "confidence": 0.999803
+  },
+  {
+    "text": " за",
+    "startMs": 6097,
+    "endMs": 6257,
+    "timestampMs": 6177,
+    "confidence": 0.99896
+  },
+  {
+    "text": " два",
+    "startMs": 6257,
+    "endMs": 6357,
+    "timestampMs": 6307,
+    "confidence": 0.997651,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " отжимания",
+    "startMs": 6357,
+    "endMs": 6777,
+    "timestampMs": 6567,
+    "confidence": 0.999297
+  },
+  {
+    "text": " ты",
+    "startMs": 6777,
+    "endMs": 6957,
+    "timestampMs": 6867,
+    "confidence": 0.998896
+  },
+  {
+    "text": " получишь",
+    "startMs": 6957,
+    "endMs": 7357,
+    "timestampMs": 7157,
+    "confidence": 0.998992,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " пизд...",
+    "startMs": 7357,
+    "endMs": 7657,
+    "timestampMs": 7507,
+    "confidence": 0.765242,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Дыню",
+    "startMs": 7657,
+    "endMs": 7897,
+    "timestampMs": 7777,
+    "confidence": 0.945545
+  },
+  {
+    "text": " хочу.",
+    "startMs": 7897,
+    "endMs": 8217,
+    "timestampMs": 8057,
+    "confidence": 0.999517,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Пойду",
+    "startMs": 8777,
+    "endMs": 9257,
+    "timestampMs": 9017,
+    "confidence": 0.998901
+  },
+  {
+    "text": " за",
+    "startMs": 9257,
+    "endMs": 9397,
+    "timestampMs": 9327,
+    "confidence": 0.998238
+  },
+  {
+    "text": " дыней.",
+    "startMs": 9397,
+    "endMs": 9697,
+    "timestampMs": 9547,
+    "confidence": 0.990352,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "09-breath",
+  "kind": "moment",
+  "title": "Силы есть.\nДЫХАЛКИ НЕТ",
+  "segments": [
+    [
+      383.4166666666667,
+      422.25
+    ]
+  ],
+  "selectionReason": "Законченная сцена с отдельной шуткой или сюжетным поворотом.",
+  "file": "09-breath.mp4",
+  "frames": 932,
+  "duration": 38.833333,
+  "videoDuration": 38.833333,
+  "bytes": 7900709,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

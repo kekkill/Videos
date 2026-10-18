@@ -1,0 +1,22 @@
+{
+  "id": "06-classmate-2",
+  "kind": "story",
+  "title": "Девушки не знали,\nЧТО Я ВСЁ СЛЫШУ",
+  "segments": [
+    [
+      247.5,
+      297.25
+    ]
+  ],
+  "selectionReason": "Законченная сцена с отдельной шуткой или сюжетным поворотом.",
+  "series": "Физра в лицее",
+  "part": 2,
+  "parts": 2,
+  "file": "06-classmate-2.mp4",
+  "frames": 1194,
+  "duration": 49.75,
+  "videoDuration": 49.75,
+  "bytes": 18058969,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

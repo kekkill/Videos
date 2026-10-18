@@ -1,0 +1,257 @@
+[
+  {
+    "start": 0.1067,
+    "end": 9.6967,
+    "text": " Но по-настоящему это стало проблемой в армии, так как в школе за два отжимания ты получишь тройку, а в армии за два отжимания ты получишь пизд... Дыню хочу. Пойду за дыней.",
+    "words": [
+      {
+        "word": " Но",
+        "start": 0.1067,
+        "end": 0.6367,
+        "probability": 0.8532039523124695,
+        "sourceStart": 46.69,
+        "sourceEnd": 47.22
+      },
+      {
+        "word": " по-настоящему",
+        "start": 0.6367,
+        "end": 1.4967,
+        "probability": 0.9627675414085388,
+        "sourceStart": 47.22,
+        "sourceEnd": 48.08
+      },
+      {
+        "word": " это",
+        "start": 1.4967,
+        "end": 1.6367,
+        "probability": 0.9526109099388123,
+        "sourceStart": 48.08,
+        "sourceEnd": 48.22
+      },
+      {
+        "word": " стало",
+        "start": 1.6367,
+        "end": 1.9167,
+        "probability": 0.9973798394203186,
+        "sourceStart": 48.22,
+        "sourceEnd": 48.5
+      },
+      {
+        "word": " проблемой",
+        "start": 1.9167,
+        "end": 2.3967,
+        "probability": 0.9997751116752625,
+        "sourceStart": 48.5,
+        "sourceEnd": 48.98
+      },
+      {
+        "word": " в",
+        "start": 2.3967,
+        "end": 2.5967,
+        "probability": 0.99720698595047,
+        "sourceStart": 48.98,
+        "sourceEnd": 49.18
+      },
+      {
+        "word": " армии,",
+        "start": 2.5967,
+        "end": 2.9967,
+        "probability": 0.9967378775278727,
+        "sourceStart": 49.18,
+        "sourceEnd": 49.58
+      },
+      {
+        "word": " так",
+        "start": 3.0567,
+        "end": 3.1767,
+        "probability": 0.9944578409194946,
+        "sourceStart": 49.64,
+        "sourceEnd": 49.76
+      },
+      {
+        "word": " как",
+        "start": 3.1767,
+        "end": 3.3167,
+        "probability": 0.9997382760047913,
+        "sourceStart": 49.76,
+        "sourceEnd": 49.9
+      },
+      {
+        "word": " в",
+        "start": 3.3167,
+        "end": 3.4367,
+        "probability": 0.9997091889381409,
+        "sourceStart": 49.9,
+        "sourceEnd": 50.019999999999996
+      },
+      {
+        "word": " школе",
+        "start": 3.4367,
+        "end": 3.7767,
+        "probability": 0.9995384514331818,
+        "sourceStart": 50.019999999999996,
+        "sourceEnd": 50.36
+      },
+      {
+        "word": " за",
+        "start": 3.7767,
+        "end": 3.9567,
+        "probability": 0.9941931366920471,
+        "sourceStart": 50.36,
+        "sourceEnd": 50.54
+      },
+      {
+        "word": " два",
+        "start": 3.9567,
+        "end": 4.0967,
+        "probability": 0.7822955250740051,
+        "sourceStart": 50.54,
+        "sourceEnd": 50.68
+      },
+      {
+        "word": " отжимания",
+        "start": 4.0967,
+        "end": 4.5367,
+        "probability": 0.994153767824173,
+        "sourceStart": 50.68,
+        "sourceEnd": 51.12
+      },
+      {
+        "word": " ты",
+        "start": 4.5367,
+        "end": 4.7167,
+        "probability": 0.994721531867981,
+        "sourceStart": 51.12,
+        "sourceEnd": 51.3
+      },
+      {
+        "word": " получишь",
+        "start": 4.7167,
+        "end": 5.1767,
+        "probability": 0.9984377026557922,
+        "sourceStart": 51.3,
+        "sourceEnd": 51.76
+      },
+      {
+        "word": " тройку,",
+        "start": 5.1767,
+        "end": 5.5767,
+        "probability": 0.9958468476931254,
+        "sourceStart": 51.76,
+        "sourceEnd": 52.16
+      },
+      {
+        "word": " а",
+        "start": 5.6767,
+        "end": 5.7567,
+        "probability": 0.9991783499717712,
+        "sourceStart": 52.26,
+        "sourceEnd": 52.339999999999996
+      },
+      {
+        "word": " в",
+        "start": 5.7567,
+        "end": 5.8567,
+        "probability": 0.9999651908874512,
+        "sourceStart": 52.339999999999996,
+        "sourceEnd": 52.44
+      },
+      {
+        "word": " армии",
+        "start": 5.8567,
+        "end": 6.0967,
+        "probability": 0.9998025298118591,
+        "sourceStart": 52.44,
+        "sourceEnd": 52.68
+      },
+      {
+        "word": " за",
+        "start": 6.0967,
+        "end": 6.2567,
+        "probability": 0.9989596605300903,
+        "sourceStart": 52.68,
+        "sourceEnd": 52.839999999999996
+      },
+      {
+        "word": " два",
+        "start": 6.2567,
+        "end": 6.3567,
+        "probability": 0.9976509213447571,
+        "sourceStart": 52.839999999999996,
+        "sourceEnd": 52.94
+      },
+      {
+        "word": " отжимания",
+        "start": 6.3567,
+        "end": 6.7767,
+        "probability": 0.9992969334125519,
+        "sourceStart": 52.94,
+        "sourceEnd": 53.36
+      },
+      {
+        "word": " ты",
+        "start": 6.7767,
+        "end": 6.9567,
+        "probability": 0.9988962411880493,
+        "sourceStart": 53.36,
+        "sourceEnd": 53.54
+      },
+      {
+        "word": " получишь",
+        "start": 6.9567,
+        "end": 7.3567,
+        "probability": 0.998991996049881,
+        "sourceStart": 53.54,
+        "sourceEnd": 53.94
+      },
+      {
+        "word": " пизд...",
+        "start": 7.3567,
+        "end": 7.6567,
+        "probability": 0.7652418911457062,
+        "sourceStart": 53.94,
+        "sourceEnd": 54.239999999999995
+      },
+      {
+        "word": " Дыню",
+        "start": 7.6567,
+        "end": 7.8967,
+        "probability": 0.9455448190371195,
+        "sourceStart": 54.239999999999995,
+        "sourceEnd": 54.48
+      },
+      {
+        "word": " хочу.",
+        "start": 7.8967,
+        "end": 8.2167,
+        "probability": 0.9995173215866089,
+        "sourceStart": 54.48,
+        "sourceEnd": 54.8
+      },
+      {
+        "word": " Пойду",
+        "start": 8.7767,
+        "end": 9.2567,
+        "probability": 0.9989009102185568,
+        "sourceStart": 55.36,
+        "sourceEnd": 55.839999999999996
+      },
+      {
+        "word": " за",
+        "start": 9.2567,
+        "end": 9.3967,
+        "probability": 0.9982378482818604,
+        "sourceStart": 55.839999999999996,
+        "sourceEnd": 55.98
+      },
+      {
+        "word": " дыней.",
+        "start": 9.3967,
+        "end": 9.6967,
+        "probability": 0.990351935227712,
+        "sourceStart": 55.98,
+        "sourceEnd": 56.28
+      }
+    ]
+  }
+]

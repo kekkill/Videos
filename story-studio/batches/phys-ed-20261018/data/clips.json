@@ -1,0 +1,204 @@
+[
+  {
+    "id": "01-rest",
+    "kind": "moment",
+    "title": "Можно я просто\nПОЛЕЖУ?",
+    "segments": [
+      [
+        0.0,
+        29.166666666666668
+      ]
+    ],
+    "selectionReason": "Законченная сцена с отдельной шуткой или сюжетным поворотом.",
+    "file": "01-rest.mp4",
+    "frames": 700,
+    "duration": 29.166667,
+    "videoDuration": 29.166667,
+    "bytes": 7212525,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "02-pushups",
+    "kind": "moment",
+    "title": "Два отжимания:\nШКОЛА vs АРМИЯ",
+    "segments": [
+      [
+        46.583333333333336,
+        56.833333333333336
+      ]
+    ],
+    "selectionReason": "Начало с конкретной темы заголовка, полная шутка и развязка без общего вступления.",
+    "file": "02-pushups.mp4",
+    "frames": 246,
+    "duration": 10.25,
+    "videoDuration": 10.25,
+    "bytes": 2746795,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "03-rope",
+    "kind": "moment",
+    "title": "Главный босс\nШКОЛЬНОЙ ФИЗРЫ",
+    "segments": [
+      [
+        74.25,
+        109.83333333333333
+      ]
+    ],
+    "selectionReason": "Начало с конкретной темы заголовка, полная шутка и развязка без общего вступления.",
+    "file": "03-rope.mp4",
+    "frames": 854,
+    "duration": 35.583333,
+    "videoDuration": 35.583333,
+    "bytes": 7370220,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "04-volleyball",
+    "kind": "moment",
+    "title": "Когда тебя\nВЫБИРАЮТ ПОСЛЕДНИМ",
+    "segments": [
+      [
+        173.66666666666666,
+        208.0
+      ]
+    ],
+    "selectionReason": "Законченная сцена с отдельной шуткой или сюжетным поворотом.",
+    "file": "04-volleyball.mp4",
+    "frames": 824,
+    "duration": 34.333333,
+    "videoDuration": 34.333333,
+    "bytes": 9396323,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "05-classmate-1",
+    "kind": "story",
+    "title": "Он играл\nБЕЗ ФУТБОЛКИ",
+    "segments": [
+      [
+        217.83333333333334,
+        245.83333333333334
+      ]
+    ],
+    "selectionReason": "Законченная сцена с отдельной шуткой или сюжетным поворотом.",
+    "series": "Физра в лицее",
+    "part": 1,
+    "parts": 2,
+    "file": "05-classmate-1.mp4",
+    "frames": 672,
+    "duration": 28.0,
+    "videoDuration": 28.0,
+    "bytes": 7660292,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "06-classmate-2",
+    "kind": "story",
+    "title": "Девушки не знали,\nЧТО Я ВСЁ СЛЫШУ",
+    "segments": [
+      [
+        247.5,
+        297.25
+      ]
+    ],
+    "selectionReason": "Законченная сцена с отдельной шуткой или сюжетным поворотом.",
+    "series": "Физра в лицее",
+    "part": 2,
+    "parts": 2,
+    "file": "06-classmate-2.mp4",
+    "frames": 1194,
+    "duration": 49.75,
+    "videoDuration": 49.75,
+    "bytes": 18058969,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "07-army-1",
+    "kind": "story",
+    "title": "Не отжался?\nЗНАЧИТ ПОДТЯГИВАЙСЯ",
+    "segments": [
+      [
+        312.875,
+        334.2083333333333
+      ]
+    ],
+    "selectionReason": "Начало с конкретной темы заголовка, полная шутка и развязка без общего вступления.",
+    "series": "Армейская физра",
+    "part": 1,
+    "parts": 2,
+    "file": "07-army-1.mp4",
+    "frames": 512,
+    "duration": 21.333333,
+    "videoDuration": 21.333333,
+    "bytes": 4143677,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "08-army-2",
+    "kind": "story",
+    "title": "Вся рота страдала\nИЗ-ЗА ОДНОГО",
+    "segments": [
+      [
+        334.4583333333333,
+        382.875
+      ]
+    ],
+    "selectionReason": "Законченная сцена с отдельной шуткой или сюжетным поворотом.",
+    "series": "Армейская физра",
+    "part": 2,
+    "parts": 2,
+    "file": "08-army-2.mp4",
+    "frames": 1162,
+    "duration": 48.416667,
+    "videoDuration": 48.416667,
+    "bytes": 11647023,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "09-breath",
+    "kind": "moment",
+    "title": "Силы есть.\nДЫХАЛКИ НЕТ",
+    "segments": [
+      [
+        383.4166666666667,
+        422.25
+      ]
+    ],
+    "selectionReason": "Законченная сцена с отдельной шуткой или сюжетным поворотом.",
+    "file": "09-breath.mp4",
+    "frames": 932,
+    "duration": 38.833333,
+    "videoDuration": 38.833333,
+    "bytes": 7900709,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  },
+  {
+    "id": "10-after-thirty",
+    "kind": "moment",
+    "title": "Тело после 30:\nГАРАНТИЯ ИСТЕКЛА",
+    "segments": [
+      [
+        439.74,
+        462.75
+      ]
+    ],
+    "selectionReason": "Начало с конкретной темы заголовка, полная шутка и развязка без общего вступления.",
+    "file": "10-after-thirty.mp4",
+    "frames": 553,
+    "duration": 23.041667,
+    "videoDuration": 23.041667,
+    "bytes": 4559015,
+    "mirrorApplied": true,
+    "sourceSpeechSpeedChanged": false
+  }
+]

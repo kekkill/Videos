@@ -1,0 +1,22 @@
+{
+  "id": "08-army-2",
+  "kind": "story",
+  "title": "Вся рота страдала\nИЗ-ЗА ОДНОГО",
+  "segments": [
+    [
+      334.4583333333333,
+      382.875
+    ]
+  ],
+  "selectionReason": "Законченная сцена с отдельной шуткой или сюжетным поворотом.",
+  "series": "Армейская физра",
+  "part": 2,
+  "parts": 2,
+  "file": "08-army-2.mp4",
+  "frames": 1162,
+  "duration": 48.416667,
+  "videoDuration": 48.416667,
+  "bytes": 11647023,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

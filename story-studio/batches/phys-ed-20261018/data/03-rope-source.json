@@ -1,0 +1,19 @@
+{
+  "id": "03-rope",
+  "kind": "moment",
+  "title": "Главный босс\nШКОЛЬНОЙ ФИЗРЫ",
+  "segments": [
+    [
+      74.25,
+      109.83333333333333
+    ]
+  ],
+  "selectionReason": "Начало с конкретной темы заголовка, полная шутка и развязка без общего вступления.",
+  "file": "03-rope.mp4",
+  "frames": 854,
+  "duration": 35.583333,
+  "videoDuration": 35.583333,
+  "bytes": 7370220,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}

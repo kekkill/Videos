@@ -1,0 +1,19 @@
+{
+  "id": "04-volleyball",
+  "kind": "moment",
+  "title": "Когда тебя\nВЫБИРАЮТ ПОСЛЕДНИМ",
+  "segments": [
+    [
+      173.66666666666666,
+      208.0
+    ]
+  ],
+  "selectionReason": "Законченная сцена с отдельной шуткой или сюжетным поворотом.",
+  "file": "04-volleyball.mp4",
+  "frames": 824,
+  "duration": 34.333333,
+  "videoDuration": 34.333333,
+  "bytes": 9396323,
+  "mirrorApplied": true,
+  "sourceSpeechSpeedChanged": false
+}
