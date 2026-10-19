@@ -1,0 +1,226 @@
+[
+  {
+    "id": "01-african-court",
+    "index": 1,
+    "title": "Африканский племенной суд",
+    "source": "source-01.mp4",
+    "sourceDriveId": "1vExkYVXph0NpolMb-JAxjVywEGfeUN-z",
+    "sourceSha256": "fee3bef2ff67d68eb186af7b5ee5e4f10286b085c1534914e66fa46443838ff7",
+    "frames": 2940,
+    "videoDuration": 49.0,
+    "audioDuration": 49.040544,
+    "mainCrop": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "mainPosition": [
+      180,
+      0,
+      720,
+      960
+    ],
+    "games": [
+      {
+        "game": 4,
+        "startFrame": 420,
+        "frames": 1560
+      },
+      {
+        "game": 2,
+        "startFrame": 1440,
+        "frames": 1380
+      }
+    ]
+  },
+  {
+    "id": "02-drake-adventures",
+    "index": 2,
+    "title": "Готические приключения репера Дрейка",
+    "source": "source-02.mp4",
+    "sourceDriveId": "1lNr3MVNBxzEE83wNFTw2COLrN34aYnYD",
+    "sourceSha256": "54ee974c34dda832140f7bda9b7694a76d7c26ea61265ea206f4a8ac380c5b88",
+    "frames": 3152,
+    "videoDuration": 52.533333,
+    "audioDuration": 52.616417,
+    "mainCrop": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "mainPosition": [
+      180,
+      0,
+      720,
+      960
+    ],
+    "games": [
+      {
+        "game": 1,
+        "startFrame": 720,
+        "frames": 1860
+      },
+      {
+        "game": 6,
+        "startFrame": 600,
+        "frames": 1292
+      }
+    ]
+  },
+  {
+    "id": "03-kind-owl",
+    "index": 3,
+    "title": "Добрая сова",
+    "source": "source-03.mp4",
+    "sourceDriveId": "1QnZ6YT8xZqrTirjT5r_DwF-TMTC4uJ_1",
+    "sourceSha256": "115b11f0510e90318a391454d627e36df63b8cb491248813d0240de8af8c3ff2",
+    "frames": 3462,
+    "videoDuration": 57.7,
+    "audioDuration": 57.748027,
+    "mainCrop": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "mainPosition": [
+      180,
+      0,
+      720,
+      960
+    ],
+    "games": [
+      {
+        "game": 2,
+        "startFrame": 0,
+        "frames": 1620
+      },
+      {
+        "game": 4,
+        "startFrame": 1740,
+        "frames": 1440
+      },
+      {
+        "game": 3,
+        "startFrame": 120,
+        "frames": 402
+      }
+    ],
+    "preset": "veryfast"
+  },
+  {
+    "id": "04-river-cleanup",
+    "index": 4,
+    "title": "Очистка реки от мусора",
+    "source": "source-04.mp4",
+    "sourceDriveId": "1Gv5VbYGDfAfTcTGaVtyMKXkzzrGIsfN4",
+    "sourceSha256": "26444f51c58499962b7ec8680fa7d3f06458bef008d8108512c6144eccaf0cba",
+    "frames": 2816,
+    "videoDuration": 46.933333,
+    "audioDuration": 46.973968,
+    "mainCrop": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "mainPosition": [
+      180,
+      0,
+      720,
+      960
+    ],
+    "games": [
+      {
+        "game": 6,
+        "startFrame": 180,
+        "frames": 1680
+      },
+      {
+        "game": 1,
+        "startFrame": 2040,
+        "frames": 1136
+      }
+    ],
+    "preset": "veryfast"
+  },
+  {
+    "id": "05-peppa-kanye",
+    "index": 5,
+    "title": "Пеппа 10 Канье",
+    "source": "source-05.mp4",
+    "sourceDriveId": "1Kwhp6plGkyjAdcEzB--VlTeHo40pKbdw",
+    "sourceSha256": "959b96ff3a39330d832c6aeb83324d649c39180685319cc0b9217a37a3cf965d",
+    "frames": 2310,
+    "videoDuration": 38.5,
+    "audioDuration": 38.545125,
+    "mainCrop": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "mainPosition": [
+      180,
+      0,
+      720,
+      960
+    ],
+    "games": [
+      {
+        "game": 5,
+        "startFrame": 60,
+        "frames": 1620
+      },
+      {
+        "game": 2,
+        "startFrame": 2340,
+        "frames": 690
+      }
+    ],
+    "preset": "veryfast"
+  },
+  {
+    "id": "06-ai-deceived-everyone",
+    "index": 6,
+    "title": "Снова нейронка всех обманула",
+    "source": "source-06.mp4",
+    "sourceDriveId": "1UDOG2UG5yEjI5DqYKhJVwTityMXazK1K",
+    "sourceSha256": "ce5cd858d97b5518fc5173b458413c7db85d655bd747641fa9f1bda3de0fbc13",
+    "frames": 3416,
+    "videoDuration": 56.933333,
+    "audioDuration": 56.981769,
+    "mainCrop": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "mainPosition": [
+      180,
+      0,
+      720,
+      960
+    ],
+    "games": [
+      {
+        "game": 3,
+        "startFrame": 0,
+        "frames": 840
+      },
+      {
+        "game": 5,
+        "startFrame": 240,
+        "frames": 1500
+      },
+      {
+        "game": 4,
+        "startFrame": 1320,
+        "frames": 1076
+      }
+    ],
+    "preset": "veryfast"
+  }
+]

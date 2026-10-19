@@ -1,0 +1,47 @@
+{
+  "validation": "passed",
+  "clips": [
+    {
+      "file": "01-african-court-gameplay.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 49.040544,
+      "error": null
+    },
+    {
+      "file": "02-drake-adventures-gameplay.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 52.616417,
+      "error": null
+    },
+    {
+      "file": "03-kind-owl-gameplay.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 57.748027,
+      "error": null
+    },
+    {
+      "file": "04-river-cleanup-gameplay.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 46.973968,
+      "error": null
+    },
+    {
+      "file": "05-peppa-kanye-gameplay.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 38.545125,
+      "error": null
+    },
+    {
+      "file": "06-ai-deceived-everyone-gameplay.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 56.981769,
+      "error": null
+    }
+  ]
+}

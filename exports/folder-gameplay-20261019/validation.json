@@ -1,0 +1,317 @@
+{
+  "validation": "passed",
+  "clips": [
+    {
+      "id": "01-african-court",
+      "title": "Африканский племенной суд",
+      "file": "01-african-court-gameplay.mp4",
+      "validation": "passed",
+      "frames": 2940,
+      "allFrameTimestampsUnchanged": true,
+      "audioPacketsCopiedExactly": 2112,
+      "gameplayAudioPresent": false,
+      "mainPictureFramesCompared": 2940,
+      "mainPictureMeanRgbDifference": 1.1246,
+      "mainPictureWorstFrameMeanDifference": 2.0331,
+      "subtitleBandMeanRgbDifference": 1.0029,
+      "subtitleBandWorstFrameMeanDifference": 1.9993,
+      "gamePictureMeanRgbDifferences": [
+        0.5997,
+        0.9105,
+        0.732,
+        0.5276,
+        0.3762,
+        0.363
+      ],
+      "mainCrop": [
+        0,
+        0,
+        1080,
+        1440
+      ],
+      "mainPosition": [
+        180,
+        0,
+        720,
+        960
+      ],
+      "halfSize": [
+        1080,
+        960
+      ],
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "fullDecodePassed": true,
+      "sourceOrientationUnchanged": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "duration": 49.040544,
+      "bytes": 36671104,
+      "sha256": "38a917e95a74857ebedafaaf321caf3952c5a08fd96b5db5d04ed772845c610d"
+    },
+    {
+      "id": "02-drake-adventures",
+      "title": "Готические приключения репера Дрейка",
+      "file": "02-drake-adventures-gameplay.mp4",
+      "validation": "passed",
+      "frames": 3152,
+      "allFrameTimestampsUnchanged": true,
+      "audioPacketsCopiedExactly": 2266,
+      "gameplayAudioPresent": false,
+      "mainPictureFramesCompared": 3152,
+      "mainPictureMeanRgbDifference": 0.7432,
+      "mainPictureWorstFrameMeanDifference": 1.4366,
+      "subtitleBandMeanRgbDifference": 0.7221,
+      "subtitleBandWorstFrameMeanDifference": 1.3461,
+      "gamePictureMeanRgbDifferences": [
+        0.7068,
+        0.6863,
+        0.5814,
+        0.7179,
+        0.4994,
+        0.3713
+      ],
+      "mainCrop": [
+        0,
+        0,
+        1080,
+        1440
+      ],
+      "mainPosition": [
+        180,
+        0,
+        720,
+        960
+      ],
+      "halfSize": [
+        1080,
+        960
+      ],
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "fullDecodePassed": true,
+      "sourceOrientationUnchanged": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "duration": 52.616417,
+      "bytes": 39955631,
+      "sha256": "41ecffab44d42c71596f1d0444e638bac681e17f808deebb7da93a01b26ecc71"
+    },
+    {
+      "id": "03-kind-owl",
+      "title": "Добрая сова",
+      "file": "03-kind-owl-gameplay.mp4",
+      "validation": "passed",
+      "frames": 3462,
+      "allFrameTimestampsUnchanged": true,
+      "audioPacketsCopiedExactly": 2487,
+      "gameplayAudioPresent": false,
+      "mainPictureFramesCompared": 3462,
+      "mainPictureMeanRgbDifference": 0.9606,
+      "mainPictureWorstFrameMeanDifference": 1.7851,
+      "subtitleBandMeanRgbDifference": 0.9433,
+      "subtitleBandWorstFrameMeanDifference": 1.8097,
+      "gamePictureMeanRgbDifferences": [
+        0.7148,
+        0.7113,
+        0.5447,
+        0.9464,
+        0.9429,
+        0.5635,
+        0.3098,
+        0.369,
+        0.4654
+      ],
+      "mainCrop": [
+        0,
+        0,
+        1080,
+        1440
+      ],
+      "mainPosition": [
+        180,
+        0,
+        720,
+        960
+      ],
+      "halfSize": [
+        1080,
+        960
+      ],
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "fullDecodePassed": true,
+      "sourceOrientationUnchanged": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "duration": 57.748027,
+      "bytes": 31617472,
+      "sha256": "fc2a5864210e3a07d35c6fe71b1b666bb5f29b99e8acfc9f190ad61b8c159f7b"
+    },
+    {
+      "id": "04-river-cleanup",
+      "title": "Очистка реки от мусора",
+      "file": "04-river-cleanup-gameplay.mp4",
+      "validation": "passed",
+      "frames": 2816,
+      "allFrameTimestampsUnchanged": true,
+      "audioPacketsCopiedExactly": 2023,
+      "gameplayAudioPresent": false,
+      "mainPictureFramesCompared": 2816,
+      "mainPictureMeanRgbDifference": 1.5673,
+      "mainPictureWorstFrameMeanDifference": 2.9869,
+      "subtitleBandMeanRgbDifference": 1.4436,
+      "subtitleBandWorstFrameMeanDifference": 3.0756,
+      "gamePictureMeanRgbDifferences": [
+        0.6032,
+        0.8878,
+        0.6395,
+        0.8072,
+        0.8191,
+        0.6448
+      ],
+      "mainCrop": [
+        0,
+        0,
+        1080,
+        1440
+      ],
+      "mainPosition": [
+        180,
+        0,
+        720,
+        960
+      ],
+      "halfSize": [
+        1080,
+        960
+      ],
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "fullDecodePassed": true,
+      "sourceOrientationUnchanged": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "duration": 46.973968,
+      "bytes": 36923721,
+      "sha256": "2fd762abd89c027a6b39c267c3fe9b8f6706d2479d6ac54fd315676045ebc572"
+    },
+    {
+      "id": "05-peppa-kanye",
+      "title": "Пеппа 10 Канье",
+      "file": "05-peppa-kanye-gameplay.mp4",
+      "validation": "passed",
+      "frames": 2310,
+      "allFrameTimestampsUnchanged": true,
+      "audioPacketsCopiedExactly": 1660,
+      "gameplayAudioPresent": false,
+      "mainPictureFramesCompared": 2310,
+      "mainPictureMeanRgbDifference": 0.7276,
+      "mainPictureWorstFrameMeanDifference": 1.7952,
+      "subtitleBandMeanRgbDifference": 0.768,
+      "subtitleBandWorstFrameMeanDifference": 1.9498,
+      "gamePictureMeanRgbDifferences": [
+        0.6196,
+        1.1154,
+        0.5933,
+        0.5154,
+        0.3827,
+        0.3928
+      ],
+      "mainCrop": [
+        0,
+        0,
+        1080,
+        1440
+      ],
+      "mainPosition": [
+        180,
+        0,
+        720,
+        960
+      ],
+      "halfSize": [
+        1080,
+        960
+      ],
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "fullDecodePassed": true,
+      "sourceOrientationUnchanged": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "duration": 38.545125,
+      "bytes": 17825183,
+      "sha256": "6c2743618508fcf534e9cd6622fdb50240d47588dad086acf9d5591532dcd321"
+    },
+    {
+      "id": "06-ai-deceived-everyone",
+      "title": "Снова нейронка всех обманула",
+      "file": "06-ai-deceived-everyone-gameplay.mp4",
+      "validation": "passed",
+      "frames": 3416,
+      "allFrameTimestampsUnchanged": true,
+      "audioPacketsCopiedExactly": 2454,
+      "gameplayAudioPresent": false,
+      "mainPictureFramesCompared": 3416,
+      "mainPictureMeanRgbDifference": 0.9378,
+      "mainPictureWorstFrameMeanDifference": 2.0538,
+      "subtitleBandMeanRgbDifference": 0.9366,
+      "subtitleBandWorstFrameMeanDifference": 2.454,
+      "gamePictureMeanRgbDifferences": [
+        0.3003,
+        0.4318,
+        0.3279,
+        0.9363,
+        0.7464,
+        0.384,
+        1.097,
+        0.8483,
+        0.8388
+      ],
+      "mainCrop": [
+        0,
+        0,
+        1080,
+        1440
+      ],
+      "mainPosition": [
+        180,
+        0,
+        720,
+        960
+      ],
+      "halfSize": [
+        1080,
+        960
+      ],
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "fullDecodePassed": true,
+      "sourceOrientationUnchanged": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "duration": 56.981769,
+      "bytes": 32613115,
+      "sha256": "bffb68e33781b61b424f312663f71033a2fc2bbd69dcc5112e7b7293786f712d"
+    }
+  ]
+}
