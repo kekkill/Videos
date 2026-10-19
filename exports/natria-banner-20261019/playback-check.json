@@ -1,0 +1,47 @@
+{
+  "validation": "passed",
+  "clips": [
+    {
+      "file": "01-african-court-natria.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 54.04,
+      "error": null
+    },
+    {
+      "file": "02-drake-adventures-natria.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 57.616,
+      "error": null
+    },
+    {
+      "file": "03-kind-owl-natria.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 62.748,
+      "error": null
+    },
+    {
+      "file": "04-river-cleanup-natria.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 51.974,
+      "error": null
+    },
+    {
+      "file": "05-peppa-kanye-natria.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 43.545,
+      "error": null
+    },
+    {
+      "file": "06-ai-deceived-everyone-natria.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 61.982,
+      "error": null
+    }
+  ]
+}
