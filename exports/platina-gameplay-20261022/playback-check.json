@@ -1,0 +1,47 @@
+{
+  "validation": "passed",
+  "clips": [
+    {
+      "file": "01-god-watches-platina.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 44.733,
+      "error": null
+    },
+    {
+      "file": "02-right-people-platina.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 48.588,
+      "error": null
+    },
+    {
+      "file": "03-subscriber-content-platina.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 39.392,
+      "error": null
+    },
+    {
+      "file": "04-why-not-platina.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 78.541,
+      "error": null
+    },
+    {
+      "file": "05-fast-beetle-platina.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 28.804,
+      "error": null
+    },
+    {
+      "file": "06-blackmailer-platina.mp4",
+      "width": 1080,
+      "height": 1920,
+      "duration": 96.746,
+      "error": null
+    }
+  ]
+}

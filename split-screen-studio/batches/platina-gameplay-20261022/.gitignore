@@ -1,0 +1,7 @@
+node_modules/
+public/media/
+public/games/
+public/banner-frames/
+public/banner-audio.flac
+out/
+__pycache__/

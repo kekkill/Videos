@@ -1,0 +1,259 @@
+[
+  {
+    "id": "01-god-watches",
+    "index": 1,
+    "title": "Бог наблюдает за этим всем ",
+    "source": "source-01.mp4",
+    "sourceDriveId": "1rdx_vY0i9WVkmwIzTQVvoDmnyWJ3DX4l",
+    "sourceSha256": "99a2fb1f9db352c7fced250c11cec3e9cadf726a710e04d5bcf2b859ce99495b",
+    "frames": 2456,
+    "videoDuration": 40.93333333333333,
+    "audioDuration": 40.98322,
+    "mainCrop": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "mainPosition": [
+      180,
+      0,
+      720,
+      960
+    ],
+    "games": [
+      {
+        "game": 1,
+        "startFrame": 120,
+        "frames": 1440
+      },
+      {
+        "game": 2,
+        "startFrame": 600,
+        "frames": 1016
+      }
+    ],
+    "preset": "veryfast",
+    "insertFrame": 1280,
+    "pauseFrames": 225,
+    "bannerFrames": 250,
+    "duckGainDb": -18,
+    "duckRestoreSeconds": 0.12,
+    "baseFile": "01-god-watches-gameplay.mp4"
+  },
+  {
+    "id": "02-right-people",
+    "index": 2,
+    "title": "Деньги достались правильным людям",
+    "source": "source-02.mp4",
+    "sourceDriveId": "18gzYPkFobyuYJV4E-U5rOGRZwnU5bCZi",
+    "sourceSha256": "15660c669276bcd06098c4e1fbdae4367ac9fa8d5ae915f9bd7a8ce93e915dcf",
+    "frames": 2687,
+    "videoDuration": 44.78333333333333,
+    "audioDuration": 44.837732,
+    "mainCrop": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "mainPosition": [
+      180,
+      0,
+      720,
+      960
+    ],
+    "games": [
+      {
+        "game": 2,
+        "startFrame": 180,
+        "frames": 1320
+      },
+      {
+        "game": 1,
+        "startFrame": 360,
+        "frames": 1367
+      }
+    ],
+    "preset": "veryfast",
+    "insertFrame": 1437,
+    "pauseFrames": 225,
+    "bannerFrames": 250,
+    "duckGainDb": -18,
+    "duckRestoreSeconds": 0.12,
+    "baseFile": "02-right-people-gameplay.mp4"
+  },
+  {
+    "id": "03-subscriber-content",
+    "index": 3,
+    "title": "Подписчик завёз контента",
+    "source": "source-03.mp4",
+    "sourceDriveId": "1-js4IimreEOIuv8X9K-21ZyIFAOsacMl",
+    "sourceSha256": "41c5c312a0da5f2a0a0738bc57addd007034f08d26c6ca2d7c473130a1486d4a",
+    "frames": 2134,
+    "videoDuration": 35.56666666666667,
+    "audioDuration": 35.64263,
+    "mainCrop": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "mainPosition": [
+      180,
+      0,
+      720,
+      960
+    ],
+    "games": [
+      {
+        "game": 3,
+        "startFrame": 480,
+        "frames": 1080
+      },
+      {
+        "game": 1,
+        "startFrame": 900,
+        "frames": 1054
+      }
+    ],
+    "preset": "veryfast",
+    "insertFrame": 1023,
+    "pauseFrames": 225,
+    "bannerFrames": 250,
+    "duckGainDb": -18,
+    "duckRestoreSeconds": 0.12,
+    "baseFile": "03-subscriber-content-gameplay.mp4"
+  },
+  {
+    "id": "04-why-not",
+    "index": 4,
+    "title": "Почему бы и нет",
+    "source": "source-04.mp4",
+    "sourceDriveId": "1Ps-z57A0XtTIb6Z03sJXwHGmj9x6QF6a",
+    "sourceSha256": "0b7a479532e56ac08f1afc057417fc8e95323e0ab174a03be7d6aaef1274a9bb",
+    "frames": 4485,
+    "videoDuration": 74.75,
+    "audioDuration": 74.791474,
+    "mainCrop": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "mainPosition": [
+      180,
+      0,
+      720,
+      960
+    ],
+    "games": [
+      {
+        "game": 1,
+        "startFrame": 300,
+        "frames": 1500
+      },
+      {
+        "game": 2,
+        "startFrame": 360,
+        "frames": 1500
+      },
+      {
+        "game": 1,
+        "startFrame": 60,
+        "frames": 1485
+      }
+    ],
+    "preset": "veryfast",
+    "insertFrame": 2277,
+    "pauseFrames": 225,
+    "bannerFrames": 250,
+    "duckGainDb": -18,
+    "duckRestoreSeconds": 0.12,
+    "baseFile": "04-why-not-gameplay.mp4"
+  },
+  {
+    "id": "05-fast-beetle",
+    "index": 5,
+    "title": "Флеш в мире жуков",
+    "source": "source-05.mp4",
+    "sourceDriveId": "14QUZpiOGVqOkz5S4OPIqHEMmgd7oh97a",
+    "sourceSha256": "8742931a98e94f6d82b8b6ca0e6e4aab2ea47e0936b77410647ed1518aaa81d4",
+    "frames": 1500,
+    "videoDuration": 25.0,
+    "audioDuration": 25.054331,
+    "mainCrop": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "mainPosition": [
+      180,
+      0,
+      720,
+      960
+    ],
+    "games": [
+      {
+        "game": 3,
+        "startFrame": 900,
+        "frames": 1500
+      }
+    ],
+    "preset": "veryfast",
+    "insertFrame": 971,
+    "pauseFrames": 225,
+    "bannerFrames": 250,
+    "duckGainDb": -18,
+    "duckRestoreSeconds": 0.12,
+    "baseFile": "05-fast-beetle-gameplay.mp4"
+  },
+  {
+    "id": "06-blackmailer",
+    "index": 6,
+    "title": "Шантажист",
+    "source": "source-06.mp4",
+    "sourceDriveId": "1wainMEtYhjrG0xBgZmB6m-6TqvG8dLSq",
+    "sourceSha256": "8362f32d7e2e2293985b0a56144714eeea4f430513cca716db5a9c30d264fbd1",
+    "frames": 5576,
+    "videoDuration": 92.93333333333334,
+    "audioDuration": 92.995918,
+    "mainCrop": [
+      0,
+      0,
+      1080,
+      1440
+    ],
+    "mainPosition": [
+      180,
+      0,
+      720,
+      960
+    ],
+    "games": [
+      {
+        "game": 2,
+        "startFrame": 540,
+        "frames": 1680
+      },
+      {
+        "game": 1,
+        "startFrame": 360,
+        "frames": 1680
+      },
+      {
+        "game": 3,
+        "startFrame": 180,
+        "frames": 2216
+      }
+    ],
+    "preset": "veryfast",
+    "insertFrame": 2886,
+    "pauseFrames": 225,
+    "bannerFrames": 250,
+    "duckGainDb": -18,
+    "duckRestoreSeconds": 0.12,
+    "baseFile": "06-blackmailer-gameplay.mp4"
+  }
+]

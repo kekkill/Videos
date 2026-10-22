@@ -1,5 +1,12 @@
 # Videos
 
+## Новая подборка — Platina VPN, 22 октября 2026
+
+[Шесть роликов, MP4 и архивы](exports/platina-gameplay-20261022/README.md).
+Шары 50/50 без звука, реклама по центру, ускорена 1,3×.
+[Проект](split-screen-studio/batches/platina-gameplay-20261022/README.md).
+
+
 ## Последняя партия — NATRIA VPN
 
 [Шесть готовых роликов, отдельные MP4 и архивы](exports/natria-banner-20261019/README.md).

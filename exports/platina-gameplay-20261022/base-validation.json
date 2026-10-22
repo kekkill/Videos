@@ -1,0 +1,314 @@
+{
+  "validation": "passed",
+  "clips": [
+    {
+      "id": "01-god-watches",
+      "title": "Бог наблюдает за этим всем ",
+      "file": "01-god-watches-gameplay.mp4",
+      "validation": "passed",
+      "frames": 2456,
+      "allFrameTimestampsUnchanged": true,
+      "audioPacketsCopiedExactly": 1765,
+      "gameplayAudioPresent": false,
+      "mainPictureFramesCompared": 2456,
+      "mainPictureMeanRgbDifference": 1.2249,
+      "mainPictureWorstFrameMeanDifference": 1.9434,
+      "subtitleBandMeanRgbDifference": 1.0238,
+      "subtitleBandWorstFrameMeanDifference": 1.8883,
+      "gamePictureMeanRgbDifferences": [
+        0.5392,
+        0.5423,
+        0.4581,
+        0.834,
+        0.6498,
+        0.333
+      ],
+      "mainCrop": [
+        0,
+        0,
+        1080,
+        1440
+      ],
+      "mainPosition": [
+        180,
+        0,
+        720,
+        960
+      ],
+      "halfSize": [
+        1080,
+        960
+      ],
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "fullDecodePassed": true,
+      "sourceOrientationUnchanged": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "duration": 40.98322,
+      "bytes": 27410659,
+      "sha256": "d4bc5a3f7a9823ecc7f57701aa4ec27d8cbd1e4ca4cff9f39051fcae332fcf88"
+    },
+    {
+      "id": "02-right-people",
+      "title": "Деньги достались правильным людям",
+      "file": "02-right-people-gameplay.mp4",
+      "validation": "passed",
+      "frames": 2687,
+      "allFrameTimestampsUnchanged": true,
+      "audioPacketsCopiedExactly": 1931,
+      "gameplayAudioPresent": false,
+      "mainPictureFramesCompared": 2687,
+      "mainPictureMeanRgbDifference": 0.943,
+      "mainPictureWorstFrameMeanDifference": 2.2325,
+      "subtitleBandMeanRgbDifference": 0.8612,
+      "subtitleBandWorstFrameMeanDifference": 1.9954,
+      "gamePictureMeanRgbDifferences": [
+        0.5773,
+        0.8949,
+        0.2743,
+        0.7349,
+        0.6163,
+        0.4242
+      ],
+      "mainCrop": [
+        0,
+        0,
+        1080,
+        1440
+      ],
+      "mainPosition": [
+        180,
+        0,
+        720,
+        960
+      ],
+      "halfSize": [
+        1080,
+        960
+      ],
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "fullDecodePassed": true,
+      "sourceOrientationUnchanged": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "duration": 44.837732,
+      "bytes": 26473856,
+      "sha256": "be48a35962403b1ef86850f0a5f7120b296f57b4f5df9ef61b68c3caf6c271d6"
+    },
+    {
+      "id": "03-subscriber-content",
+      "title": "Подписчик завёз контента",
+      "file": "03-subscriber-content-gameplay.mp4",
+      "validation": "passed",
+      "frames": 2134,
+      "allFrameTimestampsUnchanged": true,
+      "audioPacketsCopiedExactly": 1535,
+      "gameplayAudioPresent": false,
+      "mainPictureFramesCompared": 2134,
+      "mainPictureMeanRgbDifference": 0.93,
+      "mainPictureWorstFrameMeanDifference": 1.7124,
+      "subtitleBandMeanRgbDifference": 0.6516,
+      "subtitleBandWorstFrameMeanDifference": 1.4416,
+      "gamePictureMeanRgbDifferences": [
+        0.643,
+        0.6471,
+        0.3168,
+        0.5122,
+        0.6189,
+        0.3468
+      ],
+      "mainCrop": [
+        0,
+        0,
+        1080,
+        1440
+      ],
+      "mainPosition": [
+        180,
+        0,
+        720,
+        960
+      ],
+      "halfSize": [
+        1080,
+        960
+      ],
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "fullDecodePassed": true,
+      "sourceOrientationUnchanged": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "duration": 35.64263,
+      "bytes": 21668056,
+      "sha256": "f9a70f95ccc1fa37475092cc0797d3b4e54c2e58347de18f22ac56998bca8fb9"
+    },
+    {
+      "id": "04-why-not",
+      "title": "Почему бы и нет",
+      "file": "04-why-not-gameplay.mp4",
+      "validation": "passed",
+      "frames": 4485,
+      "allFrameTimestampsUnchanged": true,
+      "audioPacketsCopiedExactly": 3221,
+      "gameplayAudioPresent": false,
+      "mainPictureFramesCompared": 4485,
+      "mainPictureMeanRgbDifference": 1.0171,
+      "mainPictureWorstFrameMeanDifference": 1.6171,
+      "subtitleBandMeanRgbDifference": 1.0936,
+      "subtitleBandWorstFrameMeanDifference": 1.9657,
+      "gamePictureMeanRgbDifferences": [
+        0.5376,
+        0.8866,
+        0.3578,
+        0.5163,
+        0.6526,
+        0.1531,
+        0.3757,
+        0.8357,
+        0.4657
+      ],
+      "mainCrop": [
+        0,
+        0,
+        1080,
+        1440
+      ],
+      "mainPosition": [
+        180,
+        0,
+        720,
+        960
+      ],
+      "halfSize": [
+        1080,
+        960
+      ],
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "fullDecodePassed": true,
+      "sourceOrientationUnchanged": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "duration": 74.791474,
+      "bytes": 39570236,
+      "sha256": "9af23c1968fba74990a8003a5487ef9044eff580b822c446dce18d62d581618d"
+    },
+    {
+      "id": "05-fast-beetle",
+      "title": "Флеш в мире жуков",
+      "file": "05-fast-beetle-gameplay.mp4",
+      "validation": "passed",
+      "frames": 1500,
+      "allFrameTimestampsUnchanged": true,
+      "audioPacketsCopiedExactly": 1079,
+      "gameplayAudioPresent": false,
+      "mainPictureFramesCompared": 1500,
+      "mainPictureMeanRgbDifference": 1.3123,
+      "mainPictureWorstFrameMeanDifference": 2.4763,
+      "subtitleBandMeanRgbDifference": 1.4465,
+      "subtitleBandWorstFrameMeanDifference": 2.3917,
+      "gamePictureMeanRgbDifferences": [
+        0.5113,
+        0.6664,
+        0.2074
+      ],
+      "mainCrop": [
+        0,
+        0,
+        1080,
+        1440
+      ],
+      "mainPosition": [
+        180,
+        0,
+        720,
+        960
+      ],
+      "halfSize": [
+        1080,
+        960
+      ],
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "fullDecodePassed": true,
+      "sourceOrientationUnchanged": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "duration": 25.054331,
+      "bytes": 22688119,
+      "sha256": "511bb73c4fe13f3e8e23e887c5da0bb700af4b6d529fb05e5aa040466d303fe0"
+    },
+    {
+      "id": "06-blackmailer",
+      "title": "Шантажист",
+      "file": "06-blackmailer-gameplay.mp4",
+      "validation": "passed",
+      "frames": 5576,
+      "allFrameTimestampsUnchanged": true,
+      "audioPacketsCopiedExactly": 4005,
+      "gameplayAudioPresent": false,
+      "mainPictureFramesCompared": 5576,
+      "mainPictureMeanRgbDifference": 0.9878,
+      "mainPictureWorstFrameMeanDifference": 2.5039,
+      "subtitleBandMeanRgbDifference": 1.1679,
+      "subtitleBandWorstFrameMeanDifference": 2.6308,
+      "gamePictureMeanRgbDifferences": [
+        0.565,
+        0.7717,
+        0.2281,
+        0.5613,
+        0.5895,
+        0.3525,
+        0.7403,
+        0.7874,
+        0.2137
+      ],
+      "mainCrop": [
+        0,
+        0,
+        1080,
+        1440
+      ],
+      "mainPosition": [
+        180,
+        0,
+        720,
+        960
+      ],
+      "halfSize": [
+        1080,
+        960
+      ],
+      "gameScaleXY": [
+        0.8333333333333334,
+        0.8333333333333334
+      ],
+      "fullDecodePassed": true,
+      "sourceOrientationUnchanged": true,
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "duration": 92.995918,
+      "bytes": 68380641,
+      "sha256": "20981b6e7ed98e499a8a641f139052236eaeb6209b6c4afde5656273d844ba3b"
+    }
+  ]
+}
